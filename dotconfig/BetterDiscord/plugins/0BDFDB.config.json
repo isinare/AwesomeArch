@@ -1,0 +1,18 @@
+{
+	"changeLogs": {
+		"CreationDate": "1.4.6",
+		"SpotifyControls": "1.2.4"
+	},
+	"choices": {
+		"toastPosition": "right"
+	},
+	"general": {
+		"showToasts": true,
+		"showSupportBadges": true,
+		"useChromium": false
+	},
+	"hashes": {
+		"0BDFDB.data.json": "44a2b926583f7b663c65a3731ce166446233ae51",
+		"0BDFDB.raw.css": "a1036e10077b9457f3903795204f7dbd91d7646d"
+	}
+}
