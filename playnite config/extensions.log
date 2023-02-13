@@ -1,0 +1,1366 @@
+11-12 11:54:51.649|DEBUG|GogLibrary#Downloader:Downloading string content from https://www.gog.com/ using System.Text.UTF8Encoding encoding.
+11-12 11:57:23.036|DEBUG|EpicLibrary#EpicLibrary:Found 0 installed Epic games.
+11-12 11:57:42.310|DEBUG|EpicLibrary#EpicLibrary:Found 13 library Epic games.
+11-12 12:00:30.133|DEBUG|EpicLibrary#EpicLibrary:Found 0 installed Epic games.
+11-12 12:02:52.742|DEBUG|EpicLibrary#EpicLibrary:Found 145 library Epic games.
+11-12 12:02:53.045|DEBUG|GogLibrary#GogLibrary:Found 0 installed GOG games.
+11-12 12:02:55.810|DEBUG|GogLibrary#GogLibrary:Found 51 library GOG games.
+11-12 12:02:59.706|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004657/en_IE?country=IE.
+11-12 12:03:00.316|DEBUG|OriginLibrary#Downloader:Downloading data from https://api1.origin.com/ecommerce2/public/Origin.OFR.50.0004657/en_US.
+11-12 12:03:00.429|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+11-12 12:03:00.973|DEBUG|OriginLibrary#Downloader:Downloading data from https://api1.origin.com/ecommerce2/public/Origin.OFR.50.0003112/en_US.
+11-12 12:03:01.308|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/OFB-EAST:109552155/en_IE?country=IE.
+11-12 12:03:01.879|DEBUG|OriginLibrary#Downloader:Downloading data from https://api1.origin.com/ecommerce2/public/OFB-EAST:109552155/en_US.
+11-12 12:03:02.218|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004662/en_IE?country=IE.
+11-12 12:03:02.761|DEBUG|OriginLibrary#Downloader:Downloading data from https://api1.origin.com/ecommerce2/public/Origin.OFR.50.0004662/en_US.
+11-12 12:03:03.099|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002694/en_IE?country=IE.
+11-12 12:03:04.142|DEBUG|OriginLibrary#Downloader:Downloading data from https://api1.origin.com/ecommerce2/public/Origin.OFR.50.0002694/en_US.
+11-12 12:03:04.342|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002015/en_IE?country=IE.
+11-12 12:03:04.992|DEBUG|OriginLibrary#Downloader:Downloading data from https://api1.origin.com/ecommerce2/public/Origin.OFR.50.0002015/en_US.
+11-12 12:03:05.432|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+11-12 12:03:05.720|DEBUG|OriginLibrary#OriginLibrary:Found 7 library EA games.
+11-12 12:03:05.738|DEBUG|OriginLibrary#OriginLibrary:Found 0 installed EA games.
+11-12 12:03:05.777|DEBUG|SteamLibrary#SteamLibrary:Found 0 installed Steam games.
+11-12 12:03:06.478|DEBUG|SteamLibrary#SteamLibrary:Found 83 library Steam games.
+11-12 12:03:06.664|DEBUG|UplayLibrary#UplayLibrary:Found 0 installed Ubisoft Connect games.
+11-12 12:03:06.978|DEBUG|UplayLibrary#UplayLibrary:Found 39 library Ubisoft Connect games.
+11-12 12:05:07.028|DEBUG|GogLibrary#Downloader:Downloading string content from http://api.gog.com/products/1207666073?expand=description&locale=en using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:05:07.560|DEBUG|GogLibrary#Downloader:Downloading string content from https://www.gog.com/en/game/akalabeth_world_of_doom using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:05:09.256|DEBUG|GogLibrary#Downloader:Downloading string content from http://api.gog.com/products/1207658661?expand=description&locale=en using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:05:09.584|DEBUG|GogLibrary#Downloader:Downloading string content from https://www.gog.com/en/game/arma_cold_war_assault using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:05:11.246|DEBUG|GogLibrary#Downloader:Downloading string content from http://api.gog.com/products/1207664543?expand=description&locale=en using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:05:11.572|DEBUG|GogLibrary#Downloader:Downloading string content from https://www.gog.com/en/game/ascendant using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:05:13.296|DEBUG|GogLibrary#Downloader:Downloading string content from http://api.gog.com/products/1207658695?expand=description&locale=en using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:05:13.663|DEBUG|GogLibrary#Downloader:Downloading string content from https://www.gog.com/en/game/beneath_a_steel_sky using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:05:15.172|DEBUG|GogLibrary#Downloader:Downloading string content from http://api.gog.com/products/1449569170?expand=description&locale=en using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:05:15.499|DEBUG|GogLibrary#Downloader:Downloading string content from https://www.gog.com/en/game/bio_menace using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:05:17.372|DEBUG|GogLibrary#Downloader:Downloading string content from http://api.gog.com/products/1356485086?expand=description&locale=en using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:05:17.698|DEBUG|GogLibrary#Downloader:Downloading string content from https://www.gog.com/en/game/brigador using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:05:20.558|DEBUG|GogLibrary#Downloader:Downloading string content from http://api.gog.com/products/2016844216?expand=description&locale=en using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:05:20.903|DEBUG|GogLibrary#Downloader:Downloading string content from https://www.gog.com/en/game/cayne using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:05:22.926|DEBUG|GogLibrary#Downloader:Downloading string content from http://api.gog.com/products/1782995089?expand=description&locale=en using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:05:23.258|DEBUG|GogLibrary#Downloader:Downloading string content from https://www.gog.com/en/game/daggerfall_unity_gog_cut using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:05:24.501|DEBUG|GogLibrary#Downloader:Downloading string content from http://api.gog.com/products/1250071528?expand=description&locale=en using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:05:24.831|DEBUG|GogLibrary#Downloader:Downloading string content from https://www.gog.com/en/game/delores_a_thimbleweed_park_miniadventure using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:05:25.972|DEBUG|GogLibrary#Downloader:Downloading string content from http://api.gog.com/products/1640863824?expand=description&locale=en using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:05:26.324|DEBUG|GogLibrary#Downloader:Downloading string content from https://www.gog.com/en/game/dink_smallwood_hd using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:05:27.327|DEBUG|GogLibrary#Downloader:Downloading string content from http://api.gog.com/products/1207660693?expand=description&locale=en using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:05:27.653|DEBUG|GogLibrary#Downloader:Downloading string content from https://www.gog.com/en/game/doomdarks_revenge using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:05:30.127|DEBUG|GogLibrary#Downloader:Downloading string content from http://api.gog.com/products/1207659221?expand=description&locale=en using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:05:30.499|DEBUG|GogLibrary#Downloader:Downloading string content from https://www.gog.com/en/game/eschalon_book_i using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:05:32.685|DEBUG|GogLibrary#Downloader:Downloading string content from http://api.gog.com/products/1876546888?expand=description&locale=en using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:05:33.015|DEBUG|GogLibrary#Downloader:Downloading string content from https://www.gog.com/en/game/fall_of_porcupine_prologue using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:05:34.920|DEBUG|GogLibrary#Downloader:Downloading string content from http://api.gog.com/products/1207659723?expand=description&locale=en using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:05:35.290|DEBUG|GogLibrary#Downloader:Downloading string content from https://www.gog.com/en/game/flight_of_the_amazon_queen using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:05:37.064|DEBUG|GogLibrary#Downloader:Downloading string content from http://api.gog.com/products/1957528513?expand=description&locale=en using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:05:37.422|DEBUG|GogLibrary#Downloader:Downloading string content from https://www.gog.com/en/game/ghostrunner using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:05:39.368|DEBUG|GogLibrary#Downloader:Downloading string content from http://api.gog.com/products/1503950763?expand=description&locale=en using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:05:39.716|DEBUG|GogLibrary#Downloader:Downloading string content from https://www.gog.com/en/game/hellpoint using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:05:41.158|DEBUG|GogLibrary#Downloader:Downloading string content from http://api.gog.com/products/1604161214?expand=description&locale=en using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:05:41.514|DEBUG|GogLibrary#Downloader:Downloading string content from https://www.gog.com/en/game/loria using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:05:42.666|DEBUG|GogLibrary#Downloader:Downloading string content from http://api.gog.com/products/1430740172?expand=description&locale=en using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:05:42.997|DEBUG|GogLibrary#Downloader:Downloading string content from https://www.gog.com/en/game/metro_last_light_redux using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:05:44.073|DEBUG|GogLibrary#Downloader:Downloading string content from http://api.gog.com/products/1213504814?expand=description&locale=en using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:05:44.451|DEBUG|GogLibrary#Downloader:Downloading string content from https://www.gog.com/en/game/middleearth_shadow_of_mordor using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:05:46.158|DEBUG|GogLibrary#Downloader:Downloading string content from http://api.gog.com/products/1324471032?expand=description&locale=en using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:05:46.493|DEBUG|GogLibrary#Downloader:Downloading string content from https://www.gog.com/en/game/middleearth_shadow_of_war using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:05:47.730|DEBUG|GogLibrary#Downloader:Downloading string content from http://api.gog.com/products/1433027987?expand=description&locale=en using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:05:48.050|DEBUG|GogLibrary#Downloader:Downloading string content from https://www.gog.com/en/game/nomads_of_driftland using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:05:50.572|DEBUG|GogLibrary#Downloader:Downloading string content from http://api.gog.com/products/1293297882?expand=description&locale=en using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:05:50.888|DEBUG|GogLibrary#Downloader:Downloading string content from https://www.gog.com/en/game/openttd using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:05:52.320|DEBUG|GogLibrary#Downloader:Downloading string content from http://api.gog.com/products/1337063899?expand=description&locale=en using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:05:52.651|DEBUG|GogLibrary#Downloader:Downloading string content from https://www.gog.com/en/game/our_life_beginnings_always using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:05:54.701|DEBUG|GogLibrary#Downloader:Downloading string content from http://api.gog.com/products/1207658853?expand=description&locale=en using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:05:55.026|DEBUG|GogLibrary#Downloader:Downloading string content from https://www.gog.com/en/game/outcast using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:05:56.999|DEBUG|GogLibrary#Downloader:Downloading string content from http://api.gog.com/products/1441974651?expand=description&locale=en using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:05:57.376|DEBUG|GogLibrary#Downloader:Downloading string content from https://www.gog.com/en/game/prison_architect using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:06:00.545|DEBUG|GogLibrary#Downloader:Downloading string content from http://api.gog.com/products/1825786806?expand=description&locale=en using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:06:00.869|DEBUG|GogLibrary#Downloader:Downloading string content from https://www.gog.com/en/game/quake_ii_rtx using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:06:02.148|DEBUG|GogLibrary#Downloader:Downloading string content from http://api.gog.com/products/1207659142?expand=description&locale=en using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:06:02.481|DEBUG|GogLibrary#Downloader:Downloading string content from https://www.gog.com/en/game/shadow_warrior_complete using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:06:03.880|DEBUG|GogLibrary#Downloader:Downloading string content from http://api.gog.com/products/1436866438?expand=description&locale=en using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:06:04.204|DEBUG|GogLibrary#Downloader:Downloading string content from https://www.gog.com/en/game/shadowrun_hong_kong_extended_edition using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:06:05.420|DEBUG|GogLibrary#Downloader:Downloading string content from http://api.gog.com/products/1207660413?expand=description&locale=en using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:06:05.752|DEBUG|GogLibrary#Downloader:Downloading string content from https://www.gog.com/en/game/shadowrun_returns using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:06:07.586|DEBUG|GogLibrary#Downloader:Downloading string content from http://api.gog.com/products/1207660913?expand=description&locale=en using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:06:07.924|DEBUG|GogLibrary#Downloader:Downloading string content from https://www.gog.com/en/game/shadowrun_dragonfall_directors_cut using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:06:09.282|DEBUG|GogLibrary#Downloader:Downloading string content from http://api.gog.com/products/1207659693?expand=description&locale=en using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:06:09.611|DEBUG|GogLibrary#Downloader:Downloading string content from https://www.gog.com/en/game/stargunner using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:06:10.963|DEBUG|GogLibrary#Downloader:Downloading string content from http://api.gog.com/products/1861082507?expand=description&locale=en using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:06:11.331|DEBUG|GogLibrary#Downloader:Downloading string content from https://www.gog.com/en/game/steamworld_dig_2 using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:06:12.625|DEBUG|GogLibrary#Downloader:Downloading string content from http://api.gog.com/products/1452983471?expand=description&locale=en using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:06:12.954|DEBUG|GogLibrary#Downloader:Downloading string content from https://www.gog.com/en/game/steel_rats using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:06:15.593|DEBUG|GogLibrary#Downloader:Downloading string content from http://api.gog.com/products/2069516170?expand=description&locale=en using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:06:15.941|DEBUG|GogLibrary#Downloader:Downloading string content from https://www.gog.com/en/game/symphonia using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:06:17.160|DEBUG|GogLibrary#Downloader:Downloading string content from http://api.gog.com/products/1207658992?expand=description&locale=en using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:06:17.483|DEBUG|GogLibrary#Downloader:Downloading string content from https://www.gog.com/en/game/syndicate using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:06:18.919|DEBUG|GogLibrary#Downloader:Downloading string content from http://api.gog.com/products/1207659193?expand=description&locale=en using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:06:19.251|DEBUG|GogLibrary#Downloader:Downloading string content from https://www.gog.com/en/game/syndicate_wars using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:06:21.202|DEBUG|GogLibrary#Downloader:Downloading string content from http://api.gog.com/products/1990946201?expand=description&locale=en using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:06:21.544|DEBUG|GogLibrary#Downloader:Downloading string content from https://www.gog.com/en/game/terroir using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:06:22.497|DEBUG|GogLibrary#Downloader:Downloading string content from http://api.gog.com/products/1358213898?expand=description&locale=en using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:06:22.825|DEBUG|GogLibrary#Downloader:Downloading string content from https://www.gog.com/en/game/the_darkest_tales_into_the_nightmare using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:06:24.483|DEBUG|GogLibrary#Downloader:Downloading string content from http://api.gog.com/products/1435829353?expand=description&locale=en using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:06:24.826|DEBUG|GogLibrary#Downloader:Downloading string content from https://www.gog.com/en/game/the_elder_scrolls_chapter_ii_daggerfall using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:06:25.861|DEBUG|GogLibrary#Downloader:Downloading string content from http://api.gog.com/products/1435828982?expand=description&locale=en using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:06:26.190|DEBUG|GogLibrary#Downloader:Downloading string content from https://www.gog.com/en/game/the_elder_scrolls_arena using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:06:30.052|DEBUG|GogLibrary#Downloader:Downloading string content from http://api.gog.com/products/1207659333?expand=description&locale=en using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:06:30.530|DEBUG|GogLibrary#Downloader:Downloading string content from https://www.gog.com/en/game/the_lords_of_midnight using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:06:32.031|DEBUG|GogLibrary#Downloader:Downloading string content from http://api.gog.com/products/1207658924?expand=description&locale=en using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:06:32.371|DEBUG|GogLibrary#Downloader:Downloading string content from https://www.gog.com/en/game/the_witcher using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:06:34.054|DEBUG|GogLibrary#Downloader:Downloading string content from http://api.gog.com/products/1207666873?expand=description&locale=en using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:06:34.382|DEBUG|GogLibrary#Downloader:Downloading string content from https://www.gog.com/en/game/this_war_of_mine using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:06:36.735|DEBUG|GogLibrary#Downloader:Downloading string content from http://api.gog.com/products/1207658901?expand=description&locale=en using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:06:37.068|DEBUG|GogLibrary#Downloader:Downloading string content from https://www.gog.com/en/game/tyrian_2000 using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:06:38.148|DEBUG|GogLibrary#Downloader:Downloading string content from http://api.gog.com/products/1207662463?expand=description&locale=en using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:06:38.479|DEBUG|GogLibrary#Downloader:Downloading string content from https://www.gog.com/en/game/ultima_underworld_1 using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:06:39.614|WARN |GogLibrary#GogMetadataProvider:Failed to get store data from page, no data found. https://www.gog.com/en/game/ultima_underworld_1
+11-12 12:06:40.026|DEBUG|GogLibrary#Downloader:Downloading string content from http://api.gog.com/products/1207662473?expand=description&locale=en using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:06:40.354|DEBUG|GogLibrary#Downloader:Downloading string content from https://www.gog.com/en/game/ultima_underworld_2 using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:06:41.106|WARN |GogLibrary#GogMetadataProvider:Failed to get store data from page, no data found. https://www.gog.com/en/game/ultima_underworld_2
+11-12 12:06:41.532|DEBUG|GogLibrary#Downloader:Downloading string content from http://api.gog.com/products/1207659062?expand=description&locale=en using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:06:41.853|DEBUG|GogLibrary#Downloader:Downloading string content from https://www.gog.com/en/game/ultima_worlds_of_adventure_2_martian_dreams using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:06:43.191|DEBUG|GogLibrary#Downloader:Downloading string content from http://api.gog.com/products/1207658962?expand=description&locale=en using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:06:43.527|DEBUG|GogLibrary#Downloader:Downloading string content from https://www.gog.com/en/game/ultima_4 using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:06:44.459|DEBUG|GogLibrary#Downloader:Downloading string content from http://api.gog.com/products/1197512724?expand=description&locale=en using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:06:44.843|DEBUG|GogLibrary#Downloader:Downloading string content from https://www.gog.com/en/game/urbek_city_builder_prologue using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:06:45.898|DEBUG|GogLibrary#Downloader:Downloading string content from http://api.gog.com/products/1207659061?expand=description&locale=en using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:06:46.227|DEBUG|GogLibrary#Downloader:Downloading string content from https://www.gog.com/en/game/worlds_of_ultima_the_savage_empire using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:06:46.817|DEBUG|GogLibrary#Downloader:Downloading string content from http://api.gog.com/products/1207658920?expand=description&locale=en using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:06:47.143|DEBUG|GogLibrary#Downloader:Downloading string content from https://www.gog.com/en/game/xiii using cookies and System.Text.UTF8Encoding encoding.
+11-12 12:06:48.228|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004657/en_IE?country=IE.
+11-12 12:06:49.724|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+11-12 12:06:50.225|DEBUG|OriginLibrary#Downloader:Downloading data from https://data3.origin.com/ocd/star-wars/star-wars-squadrons.en-us.irl.ocd.
+11-12 12:06:50.708|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/OFB-EAST:109552155/en_IE?country=IE.
+11-12 12:06:51.406|DEBUG|OriginLibrary#Downloader:Downloading data from https://data3.origin.com/ocd/battlefield/battlefield-4.en-us.irl.ocd.
+11-12 12:06:52.377|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004662/en_IE?country=IE.
+11-12 12:06:52.768|DEBUG|OriginLibrary#Downloader:Downloading data from https://data3.origin.com/ocd/battlefield/battlefield-v.en-us.irl.ocd.
+11-12 12:06:53.567|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002694/en_IE?country=IE.
+11-12 12:06:53.971|DEBUG|OriginLibrary#Downloader:Downloading data from https://data3.origin.com/ocd/apex/apex.en-us.irl.ocd.
+11-12 12:06:54.440|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002015/en_IE?country=IE.
+11-12 12:06:55.288|DEBUG|OriginLibrary#Downloader:Downloading data from https://data3.origin.com/ocd/star-wars/star-wars-battlefront-2.en-us.irl.ocd.
+11-12 12:06:58.533|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 220, found 20
+11-12 12:07:00.398|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 340, found 20
+11-12 12:07:02.171|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 400, found 20
+11-12 12:07:04.116|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 17430, found 14
+11-12 12:07:06.678|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 8190, found 20
+11-12 12:07:09.328|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 41500, found 20
+11-12 12:07:11.223|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 620, found 20
+11-12 12:07:13.796|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 10270, found 10
+11-12 12:07:16.621|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 219950, found 20
+11-12 12:07:18.872|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 218230, found 20
+11-12 12:07:21.972|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 1083500, found 3
+11-12 12:07:24.069|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 230410, found 20
+11-12 12:07:26.737|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 203160, found 20
+11-12 12:07:29.203|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 218620, found 20
+11-12 12:07:32.054|DEBUG|SteamLibrary#MetadataProvider:Franchise value "tinyBuild" of game "Fearless Fantasy" matched a publisher name and was skipped
+11-12 12:07:32.054|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 282100, found 13
+11-12 12:07:34.130|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 302510, found 20
+11-12 12:07:37.069|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 333930, found 20
+11-12 12:07:39.607|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 235540, found 20
+11-12 12:07:42.501|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 236870, found 20
+11-12 12:07:44.596|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 291550, found 20
+11-12 12:07:47.154|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 414530, found 20
+11-12 12:07:49.577|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 225540, found 20
+11-12 12:07:51.995|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 391220, found 20
+11-12 12:07:53.839|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 444090, found 20
+11-12 12:07:56.520|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 596350, found 0
+11-12 12:07:58.319|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 71340, found 20
+11-12 12:08:01.496|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 513450, found 16
+11-12 12:08:03.336|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 208140, found 20
+11-12 12:08:06.058|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 582500, found 20
+11-12 12:08:07.906|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 588430, found 20
+11-12 12:08:10.705|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 619910, found 13
+11-12 12:08:14.020|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 672870, found 2
+11-12 12:08:16.849|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 677620, found 20
+11-12 12:08:19.027|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 262280, found 19
+11-12 12:08:20.970|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 872200, found 19
+11-12 12:08:22.614|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 714010, found 20
+11-12 12:08:24.394|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 730, found 20
+11-12 12:08:26.919|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 999860, found 20
+11-12 12:08:29.321|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 1008580, found 15
+11-12 12:08:32.198|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 1036440, found 20
+11-12 12:08:34.166|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 1104450, found 20
+11-12 12:08:36.727|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 1116960, found 12
+11-12 12:08:38.953|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 1118310, found 13
+11-12 12:08:40.577|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 1085660, found 20
+11-12 12:08:42.504|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 1172470, found 20
+11-12 12:08:44.770|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 1214280, found 20
+11-12 12:08:47.701|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 1241700, found 12
+11-12 12:08:49.750|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 1255980, found 20
+11-12 12:08:52.208|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 1271140, found 10
+11-12 12:08:54.888|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 1291500, found 20
+11-12 12:08:57.184|DEBUG|SteamLibrary#MetadataProvider:Franchise value "Deep Field Games" of game "Unfortunate Spacemen" matched a publisher name and was skipped
+11-12 12:08:57.194|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 408900, found 20
+11-12 12:08:59.485|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 1408720, found 20
+11-12 12:09:01.322|DEBUG|SteamLibrary#MetadataProvider:Franchise value "NukGames" of game "Blackout Z: Slaughterhouse Edition" matched a publisher name and was skipped
+11-12 12:09:01.322|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 729660, found 20
+11-12 12:09:03.122|DEBUG|SteamLibrary#MetadataProvider:Franchise value "Curve Games" of game "Bomber Crew" matched a publisher name and was skipped
+11-12 12:09:03.122|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 537800, found 20
+11-12 12:09:06.111|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 1529470, found 20
+11-12 12:09:08.966|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 616560, found 20
+11-12 12:09:10.789|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 35130, found 20
+11-12 12:09:12.365|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 289690, found 20
+11-12 12:09:14.155|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 43110, found 20
+11-12 12:09:15.685|DEBUG|SteamLibrary#MetadataProvider:Franchise value "Tate Multimedia" of game "Steel Rats" matched a publisher name and was skipped
+11-12 12:09:15.685|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 619700, found 13
+11-12 12:09:17.260|DEBUG|SteamLibrary#MetadataProvider:Franchise value "All in! Games" of game "Red Wings" matched a publisher name and was skipped
+11-12 12:09:17.260|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 1140630, found 20
+11-12 12:09:20.168|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 1590320, found 20
+11-12 12:09:23.006|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 1625450, found 20
+11-12 12:09:24.909|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 231430, found 20
+11-12 12:09:26.437|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 1180660, found 20
+11-12 12:09:28.072|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 424840, found 20
+11-12 12:09:29.690|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 1022310, found 20
+11-12 12:09:31.919|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 613900, found 5
+11-12 12:09:34.097|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 297130, found 20
+11-12 12:09:35.580|DEBUG|SteamLibrary#MetadataProvider:Franchise value "PartTimeIndie" of game "Will Glow the Wisp" matched a publisher name and was skipped
+11-12 12:09:35.589|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 640890, found 20
+11-12 12:09:37.613|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 489520, found 20
+11-12 12:09:39.754|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 475150, found 20
+11-12 12:09:41.498|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 283270, found 11
+11-12 12:09:43.207|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 1260130, found 11
+11-12 12:09:45.315|DEBUG|SteamLibrary#MetadataProvider:Franchise value "Microids" of game "Syberia" matched a publisher name and was skipped
+11-12 12:09:45.324|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 46500, found 19
+11-12 12:09:47.114|DEBUG|SteamLibrary#MetadataProvider:Franchise value "Microids" of game "Syberia 2" matched a publisher name and was skipped
+11-12 12:09:47.123|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 46510, found 14
+11-12 12:09:48.857|DEBUG|SteamLibrary#MetadataProvider:Franchise value "Alawar Premium" of game "Beholder" matched a publisher name and was skipped
+11-12 12:09:48.872|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 475550, found 20
+11-12 12:09:51.189|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 1782210, found 20
+11-12 12:09:52.731|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 571310, found 20
+11-12 12:09:54.532|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 346110, found 20
+11-12 12:09:56.413|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 407530, found 20
+11-12 12:09:58.152|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 440, found 20
+11-12 12:10:00.528|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 570, found 20
+11-12 12:28:27.603|DEBUG|SteamLibrary#ProcessStarter:Opening URL: steam://install/391220
+11-12 12:47:26.438|DEBUG|EpicLibrary#EpicLibrary:Found 0 installed Epic games.
+11-12 12:47:33.057|DEBUG|EpicLibrary#EpicLibrary:Found 0 library Epic games.
+11-12 12:47:35.233|DEBUG|SteamLibrary#SteamLibrary:Found 12 installed Steam games.
+11-12 12:47:35.956|DEBUG|SteamLibrary#SteamLibrary:Found 83 library Steam games.
+14-12 17:43:18.099|DEBUG|EpicLibrary#EpicLibrary:Found 1 installed Epic games.
+14-12 17:43:33.064|DEBUG|EpicLibrary#EpicLibrary:Found 145 library Epic games.
+14-12 17:43:33.173|DEBUG|GogLibrary#GogLibrary:Found 0 installed GOG games.
+14-12 17:43:36.275|DEBUG|GogLibrary#GogLibrary:Found 51 library GOG games.
+14-12 17:43:40.056|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004657/en_IE?country=IE.
+14-12 17:43:40.910|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+14-12 17:43:41.578|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/OFB-EAST:109552155/en_IE?country=IE.
+14-12 17:43:42.282|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004662/en_IE?country=IE.
+14-12 17:43:42.923|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002694/en_IE?country=IE.
+14-12 17:43:43.585|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002015/en_IE?country=IE.
+14-12 17:43:44.269|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+14-12 17:43:44.559|DEBUG|OriginLibrary#OriginLibrary:Found 7 library EA games.
+14-12 17:43:44.559|DEBUG|OriginLibrary#OriginLibrary:Found 0 installed EA games.
+14-12 17:43:45.455|DEBUG|SteamLibrary#SteamLibrary:Found 13 installed Steam games.
+14-12 17:43:46.727|DEBUG|SteamLibrary#SteamLibrary:Found 84 library Steam games.
+14-12 17:43:46.941|DEBUG|UplayLibrary#UplayLibrary:Found 1 installed Ubisoft Connect games.
+14-12 17:43:47.286|DEBUG|UplayLibrary#UplayLibrary:Found 39 library Ubisoft Connect games.
+14-12 17:44:22.146|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 552990, found 20
+16-12 17:39:40.037|DEBUG|EpicLibrary#EpicLibrary:Found 2 installed Epic games.
+16-12 17:39:53.417|DEBUG|EpicLibrary#EpicLibrary:Found 146 library Epic games.
+16-12 17:39:53.522|DEBUG|GogLibrary#GogLibrary:Found 0 installed GOG games.
+16-12 17:39:57.030|DEBUG|GogLibrary#GogLibrary:Found 51 library GOG games.
+16-12 17:40:00.820|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004657/en_IE?country=IE.
+16-12 17:40:01.800|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+16-12 17:40:02.457|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/OFB-EAST:109552155/en_IE?country=IE.
+16-12 17:40:03.306|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004662/en_IE?country=IE.
+16-12 17:40:03.868|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002694/en_IE?country=IE.
+16-12 17:40:04.526|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002015/en_IE?country=IE.
+16-12 17:40:05.154|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+16-12 17:40:05.633|DEBUG|OriginLibrary#OriginLibrary:Found 7 library EA games.
+16-12 17:40:05.647|DEBUG|OriginLibrary#OriginLibrary:Found 0 installed EA games.
+16-12 17:40:05.875|DEBUG|SteamLibrary#SteamLibrary:Found 13 installed Steam games.
+16-12 17:40:06.831|DEBUG|SteamLibrary#SteamLibrary:Found 84 library Steam games.
+16-12 17:40:06.916|DEBUG|UplayLibrary#UplayLibrary:Found 1 installed Ubisoft Connect games.
+16-12 17:40:07.885|DEBUG|UplayLibrary#UplayLibrary:Found 39 library Ubisoft Connect games.
+20-12 18:27:42.322|DEBUG|EpicLibrary#EpicLibrary:Found 3 installed Epic games.
+20-12 18:27:55.765|DEBUG|EpicLibrary#EpicLibrary:Found 147 library Epic games.
+20-12 18:27:55.899|DEBUG|GogLibrary#GogLibrary:Found 0 installed GOG games.
+20-12 18:27:59.363|DEBUG|GogLibrary#GogLibrary:Found 51 library GOG games.
+20-12 18:28:02.919|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004657/en_IE?country=IE.
+20-12 18:28:03.728|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+20-12 18:28:04.230|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/OFB-EAST:109552155/en_IE?country=IE.
+20-12 18:28:04.992|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004662/en_IE?country=IE.
+20-12 18:28:05.526|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002694/en_IE?country=IE.
+20-12 18:28:06.099|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002015/en_IE?country=IE.
+20-12 18:28:06.618|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+20-12 18:28:06.992|DEBUG|OriginLibrary#OriginLibrary:Found 7 library EA games.
+20-12 18:28:06.992|DEBUG|OriginLibrary#OriginLibrary:Found 0 installed EA games.
+20-12 18:28:07.316|DEBUG|SteamLibrary#SteamLibrary:Found 13 installed Steam games.
+20-12 18:28:08.036|DEBUG|SteamLibrary#SteamLibrary:Found 84 library Steam games.
+20-12 18:28:08.113|DEBUG|UplayLibrary#UplayLibrary:Found 1 installed Ubisoft Connect games.
+20-12 18:28:08.518|DEBUG|UplayLibrary#UplayLibrary:Found 39 library Ubisoft Connect games.
+20-12 18:58:32.111|DEBUG|EpicLibrary#EpicLibrary:Found 3 installed Epic games.
+20-12 18:58:36.477|DEBUG|EpicLibrary#EpicLibrary:Found 147 library Epic games.
+20-12 18:58:36.532|DEBUG|GogLibrary#GogLibrary:Found 0 installed GOG games.
+20-12 18:58:39.770|DEBUG|GogLibrary#GogLibrary:Found 51 library GOG games.
+20-12 18:58:42.930|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004657/en_IE?country=IE.
+20-12 18:58:43.535|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+20-12 18:58:43.822|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/OFB-EAST:109552155/en_IE?country=IE.
+20-12 18:58:44.349|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004662/en_IE?country=IE.
+20-12 18:58:44.874|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002694/en_IE?country=IE.
+20-12 18:58:45.165|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002015/en_IE?country=IE.
+20-12 18:58:45.654|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+20-12 18:58:45.961|DEBUG|OriginLibrary#OriginLibrary:Found 7 library EA games.
+20-12 18:58:45.961|DEBUG|OriginLibrary#OriginLibrary:Found 0 installed EA games.
+20-12 18:58:45.993|DEBUG|SteamLibrary#SteamLibrary:Found 13 installed Steam games.
+20-12 18:58:46.921|DEBUG|SteamLibrary#SteamLibrary:Found 84 library Steam games.
+20-12 18:58:46.929|DEBUG|UplayLibrary#UplayLibrary:Found 1 installed Ubisoft Connect games.
+20-12 18:58:47.209|DEBUG|UplayLibrary#UplayLibrary:Found 39 library Ubisoft Connect games.
+21-12 19:12:06.026|DEBUG|EpicLibrary#EpicLibrary:Found 3 installed Epic games.
+21-12 19:12:17.377|DEBUG|EpicLibrary#EpicLibrary:Found 147 library Epic games.
+21-12 19:12:17.408|DEBUG|GogLibrary#GogLibrary:Found 0 installed GOG games.
+21-12 19:12:20.277|DEBUG|GogLibrary#GogLibrary:Found 51 library GOG games.
+21-12 19:12:23.544|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004657/en_IE?country=IE.
+21-12 19:12:24.195|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+21-12 19:12:24.709|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/OFB-EAST:109552155/en_IE?country=IE.
+21-12 19:12:25.328|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004662/en_IE?country=IE.
+21-12 19:12:25.837|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002694/en_IE?country=IE.
+21-12 19:12:26.359|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002015/en_IE?country=IE.
+21-12 19:12:26.911|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+21-12 19:12:27.234|DEBUG|OriginLibrary#OriginLibrary:Found 7 library EA games.
+21-12 19:12:27.247|DEBUG|OriginLibrary#OriginLibrary:Found 0 installed EA games.
+21-12 19:12:27.560|DEBUG|SteamLibrary#SteamLibrary:Found 12 installed Steam games.
+21-12 19:12:28.344|DEBUG|SteamLibrary#SteamLibrary:Found 84 library Steam games.
+21-12 19:12:28.399|DEBUG|UplayLibrary#UplayLibrary:Found 1 installed Ubisoft Connect games.
+21-12 19:12:28.761|DEBUG|UplayLibrary#UplayLibrary:Found 39 library Ubisoft Connect games.
+21-12 19:21:23.468|DEBUG|EpicLibrary#EpicLibrary:Found 3 installed Epic games.
+21-12 19:21:27.445|DEBUG|EpicLibrary#EpicLibrary:Found 147 library Epic games.
+21-12 19:21:27.474|DEBUG|GogLibrary#GogLibrary:Found 0 installed GOG games.
+21-12 19:21:30.505|DEBUG|GogLibrary#GogLibrary:Found 51 library GOG games.
+21-12 19:21:34.765|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004657/en_IE?country=IE.
+21-12 19:21:35.478|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+21-12 19:21:35.985|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/OFB-EAST:109552155/en_IE?country=IE.
+21-12 19:21:36.515|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004662/en_IE?country=IE.
+21-12 19:21:37.078|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002694/en_IE?country=IE.
+21-12 19:21:37.611|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002015/en_IE?country=IE.
+21-12 19:21:38.136|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+21-12 19:21:38.420|DEBUG|OriginLibrary#OriginLibrary:Found 7 library EA games.
+21-12 19:21:38.420|DEBUG|OriginLibrary#OriginLibrary:Found 0 installed EA games.
+21-12 19:21:38.428|DEBUG|SteamLibrary#SteamLibrary:Found 12 installed Steam games.
+21-12 19:21:39.228|DEBUG|SteamLibrary#SteamLibrary:Found 84 library Steam games.
+21-12 19:21:39.266|DEBUG|UplayLibrary#UplayLibrary:Found 1 installed Ubisoft Connect games.
+21-12 19:21:39.450|DEBUG|UplayLibrary#UplayLibrary:Found 39 library Ubisoft Connect games.
+21-12 19:21:48.061|DEBUG|EpicLibrary#ProcessStarter:Opening URL: com.epicgames.launcher://apps/Barbet?action=install
+21-12 19:24:05.995|DEBUG|EpicLibrary#ProcessStarter:Opening URL: com.epicgames.launcher://apps/8b5f1c51be3844bab51e2ee1089839f5?action=install
+21-12 19:30:39.462|WARN |IgnMetadata#IgnMetadataProvider:Could not parse date ""
+21-12 19:35:18.245|DEBUG|GogLibrary#Downloader:Downloading string content from http://api.gog.com/products/1207660693?expand=description&locale=en using cookies and System.Text.UTF8Encoding encoding.
+21-12 19:35:19.264|DEBUG|GogLibrary#Downloader:Downloading string content from https://www.gog.com/en/game/doomdarks_revenge using cookies and System.Text.UTF8Encoding encoding.
+21-12 19:44:36.163|DEBUG|OriginLibrary#ProcessStarter:Opening URL: origin2://library/open
+21-12 19:48:21.664|WARN |IgnMetadata#IgnMetadataProvider:Could not parse date ""
+21-12 19:48:37.906|DEBUG|GogLibrary#Downloader:Downloading string content from http://api.gog.com/products/1207660693?expand=description&locale=en using cookies and System.Text.UTF8Encoding encoding.
+21-12 19:48:38.461|DEBUG|GogLibrary#Downloader:Downloading string content from https://www.gog.com/en/game/doomdarks_revenge using cookies and System.Text.UTF8Encoding encoding.
+21-12 22:04:52.793|DEBUG|EpicLibrary#EpicLibrary:Found 3 installed Epic games.
+21-12 22:04:58.967|DEBUG|EpicLibrary#EpicLibrary:Found 147 library Epic games.
+21-12 22:04:59.001|DEBUG|GogLibrary#GogLibrary:Found 0 installed GOG games.
+21-12 22:05:02.702|DEBUG|GogLibrary#GogLibrary:Found 51 library GOG games.
+21-12 22:05:06.361|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004657/en_IE?country=IE.
+21-12 22:05:06.919|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+21-12 22:05:07.411|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/OFB-EAST:109552155/en_IE?country=IE.
+21-12 22:05:08.179|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004662/en_IE?country=IE.
+21-12 22:05:08.912|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002694/en_IE?country=IE.
+21-12 22:05:09.467|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002015/en_IE?country=IE.
+21-12 22:05:10.006|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+21-12 22:05:10.292|DEBUG|OriginLibrary#OriginLibrary:Found 7 library EA games.
+21-12 22:05:10.292|DEBUG|OriginLibrary#OriginLibrary:Found 0 installed EA games.
+21-12 22:05:10.429|DEBUG|SteamLibrary#SteamLibrary:Found 12 installed Steam games.
+21-12 22:05:11.132|DEBUG|SteamLibrary#SteamLibrary:Found 84 library Steam games.
+21-12 22:05:11.158|DEBUG|UplayLibrary#UplayLibrary:Found 1 installed Ubisoft Connect games.
+21-12 22:05:11.437|DEBUG|UplayLibrary#UplayLibrary:Found 39 library Ubisoft Connect games.
+23-12 09:09:47.850|DEBUG|EpicLibrary#EpicLibrary:Found 3 installed Epic games.
+23-12 09:10:00.891|DEBUG|EpicLibrary#EpicLibrary:Found 147 library Epic games.
+23-12 09:10:00.956|DEBUG|GogLibrary#GogLibrary:Found 0 installed GOG games.
+23-12 09:10:04.475|DEBUG|GogLibrary#GogLibrary:Found 51 library GOG games.
+23-12 09:10:07.721|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004657/en_IE?country=IE.
+23-12 09:10:08.292|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+23-12 09:10:08.807|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/OFB-EAST:109552155/en_IE?country=IE.
+23-12 09:10:09.313|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004662/en_IE?country=IE.
+23-12 09:10:09.825|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002694/en_IE?country=IE.
+23-12 09:10:10.309|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002015/en_IE?country=IE.
+23-12 09:10:10.778|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+23-12 09:10:11.006|DEBUG|OriginLibrary#OriginLibrary:Found 7 library EA games.
+23-12 09:10:11.006|DEBUG|OriginLibrary#OriginLibrary:Found 0 installed EA games.
+23-12 09:10:11.144|DEBUG|SteamLibrary#SteamLibrary:Found 12 installed Steam games.
+23-12 09:10:11.858|DEBUG|SteamLibrary#SteamLibrary:Found 84 library Steam games.
+23-12 09:10:11.866|DEBUG|UplayLibrary#UplayLibrary:Found 1 installed Ubisoft Connect games.
+23-12 09:10:12.155|DEBUG|UplayLibrary#UplayLibrary:Found 39 library Ubisoft Connect games.
+23-12 11:48:57.507|DEBUG|EpicLibrary#EpicLibrary:Found 3 installed Epic games.
+23-12 11:49:05.643|DEBUG|EpicLibrary#EpicLibrary:Found 150 library Epic games.
+23-12 11:49:05.734|DEBUG|GogLibrary#GogLibrary:Found 0 installed GOG games.
+23-12 11:49:09.416|DEBUG|GogLibrary#GogLibrary:Found 51 library GOG games.
+23-12 11:51:47.231|DEBUG|EpicLibrary#EpicLibrary:Found 3 installed Epic games.
+23-12 11:51:51.188|DEBUG|EpicLibrary#EpicLibrary:Found 150 library Epic games.
+23-12 11:51:51.215|DEBUG|GogLibrary#GogLibrary:Found 0 installed GOG games.
+23-12 11:51:53.656|DEBUG|GogLibrary#GogLibrary:Found 51 library GOG games.
+25-12 17:17:28.790|DEBUG|EpicLibrary#EpicLibrary:Found 3 installed Epic games.
+25-12 17:17:36.131|DEBUG|EpicLibrary#EpicLibrary:Found 64 library Epic games.
+25-12 20:36:25.572|DEBUG|EpicLibrary#EpicLibrary:Found 3 installed Epic games.
+25-12 20:36:31.447|DEBUG|EpicLibrary#EpicLibrary:Found 150 library Epic games.
+25-12 20:36:31.485|DEBUG|GogLibrary#GogLibrary:Found 0 installed GOG games.
+25-12 20:36:35.194|DEBUG|GogLibrary#GogLibrary:Found 51 library GOG games.
+25-12 20:36:38.660|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004657/en_IE?country=IE.
+25-12 20:36:39.404|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+25-12 20:36:39.989|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/OFB-EAST:109552155/en_IE?country=IE.
+25-12 20:36:40.450|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004662/en_IE?country=IE.
+25-12 20:36:40.948|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002694/en_IE?country=IE.
+25-12 20:36:41.414|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002015/en_IE?country=IE.
+25-12 20:36:41.892|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+25-12 20:36:42.157|DEBUG|OriginLibrary#OriginLibrary:Found 7 library EA games.
+25-12 20:36:42.164|DEBUG|OriginLibrary#OriginLibrary:Found 0 installed EA games.
+25-12 20:36:42.722|DEBUG|SteamLibrary#SteamLibrary:Found 14 installed Steam games.
+25-12 20:36:43.437|DEBUG|SteamLibrary#SteamLibrary:Found 86 library Steam games.
+25-12 20:36:43.616|DEBUG|UplayLibrary#UplayLibrary:Found 1 installed Ubisoft Connect games.
+25-12 20:36:43.918|DEBUG|UplayLibrary#UplayLibrary:Found 39 library Ubisoft Connect games.
+25-12 20:36:50.149|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 292030, found 20
+25-12 20:36:53.264|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 367520, found 20
+25-12 21:29:18.443|DEBUG|Riot#ProcessStarter:Starting process: C:\Riot Games\Riot Client\RiotClientServices.exe, , , False
+25-12 23:45:48.785|DEBUG|EpicLibrary#EpicLibrary:Found 3 installed Epic games.
+25-12 23:45:52.785|DEBUG|EpicLibrary#EpicLibrary:Found 150 library Epic games.
+25-12 23:45:52.818|DEBUG|GogLibrary#GogLibrary:Found 0 installed GOG games.
+25-12 23:45:55.637|DEBUG|GogLibrary#GogLibrary:Found 51 library GOG games.
+26-12 00:04:52.145|DEBUG|EpicLibrary#EpicLibrary:Found 3 installed Epic games.
+26-12 00:04:58.479|DEBUG|EpicLibrary#EpicLibrary:Found 150 library Epic games.
+26-12 00:04:58.516|DEBUG|GogLibrary#GogLibrary:Found 0 installed GOG games.
+26-12 00:05:01.961|DEBUG|GogLibrary#GogLibrary:Found 51 library GOG games.
+26-12 00:05:05.422|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004657/en_IE?country=IE.
+26-12 00:05:07.143|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+26-12 00:05:07.891|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/OFB-EAST:109552155/en_IE?country=IE.
+26-12 00:05:08.487|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004662/en_IE?country=IE.
+26-12 00:05:08.962|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002694/en_IE?country=IE.
+26-12 00:05:09.453|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002015/en_IE?country=IE.
+26-12 00:05:09.992|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+26-12 00:05:10.233|DEBUG|OriginLibrary#OriginLibrary:Found 7 library EA games.
+26-12 00:05:10.233|DEBUG|OriginLibrary#OriginLibrary:Found 0 installed EA games.
+26-12 00:05:10.419|DEBUG|SteamLibrary#SteamLibrary:Found 14 installed Steam games.
+26-12 00:05:12.461|DEBUG|SteamLibrary#SteamLibrary:Found 86 library Steam games.
+26-12 00:05:12.461|DEBUG|UplayLibrary#UplayLibrary:Found 1 installed Ubisoft Connect games.
+26-12 00:05:12.754|DEBUG|UplayLibrary#UplayLibrary:Found 39 library Ubisoft Connect games.
+26-12 09:25:39.870|DEBUG|EpicLibrary#EpicLibrary:Found 3 installed Epic games.
+26-12 09:25:47.029|DEBUG|EpicLibrary#EpicLibrary:Found 150 library Epic games.
+26-12 09:25:47.062|DEBUG|GogLibrary#GogLibrary:Found 0 installed GOG games.
+26-12 09:25:50.269|DEBUG|GogLibrary#GogLibrary:Found 51 library GOG games.
+26-12 09:25:54.268|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004657/en_IE?country=IE.
+26-12 09:25:54.957|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+26-12 09:25:55.440|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/OFB-EAST:109552155/en_IE?country=IE.
+26-12 09:25:55.916|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004662/en_IE?country=IE.
+26-12 09:25:56.372|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002694/en_IE?country=IE.
+26-12 09:25:56.837|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002015/en_IE?country=IE.
+26-12 09:25:57.323|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+26-12 09:25:57.568|DEBUG|OriginLibrary#OriginLibrary:Found 7 library EA games.
+26-12 09:25:57.574|DEBUG|OriginLibrary#OriginLibrary:Found 0 installed EA games.
+26-12 09:25:57.731|DEBUG|SteamLibrary#SteamLibrary:Found 14 installed Steam games.
+26-12 09:25:58.665|DEBUG|SteamLibrary#SteamLibrary:Found 86 library Steam games.
+26-12 09:25:58.665|DEBUG|UplayLibrary#UplayLibrary:Found 1 installed Ubisoft Connect games.
+26-12 09:25:58.950|DEBUG|UplayLibrary#UplayLibrary:Found 39 library Ubisoft Connect games.
+26-12 09:45:40.406|DEBUG|EpicLibrary#EpicLibrary:Found 3 installed Epic games.
+26-12 09:45:45.180|DEBUG|EpicLibrary#EpicLibrary:Found 150 library Epic games.
+26-12 09:45:45.210|DEBUG|GogLibrary#GogLibrary:Found 0 installed GOG games.
+26-12 09:45:48.779|DEBUG|GogLibrary#GogLibrary:Found 51 library GOG games.
+26-12 09:45:52.236|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004657/en_IE?country=IE.
+26-12 09:45:52.807|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+26-12 09:45:53.299|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/OFB-EAST:109552155/en_IE?country=IE.
+26-12 09:45:53.796|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004662/en_IE?country=IE.
+26-12 09:45:54.293|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002694/en_IE?country=IE.
+26-12 09:45:54.758|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002015/en_IE?country=IE.
+26-12 09:45:55.258|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+26-12 09:45:55.505|DEBUG|OriginLibrary#OriginLibrary:Found 7 library EA games.
+26-12 09:45:55.509|DEBUG|OriginLibrary#OriginLibrary:Found 0 installed EA games.
+26-12 09:45:55.622|DEBUG|SteamLibrary#SteamLibrary:Found 14 installed Steam games.
+26-12 09:45:56.501|DEBUG|SteamLibrary#SteamLibrary:Found 86 library Steam games.
+26-12 09:45:56.509|DEBUG|UplayLibrary#UplayLibrary:Found 1 installed Ubisoft Connect games.
+26-12 09:45:56.794|DEBUG|UplayLibrary#UplayLibrary:Found 39 library Ubisoft Connect games.
+26-12 09:49:34.439|DEBUG|SteamLibrary#ProcessStarter:Opening URL: steam://rungameid/292030
+26-12 09:49:34.673|DEBUG|SteamLibrary#ProcessMonitor:Watching dir processes D:\SteamLibrary\steamapps\common\The Witcher 3, False, False
+26-12 13:05:15.562|DEBUG|SteamLibrary#ProcessStarter:Opening URL: steam://rungameid/367520
+26-12 13:05:15.724|DEBUG|SteamLibrary#ProcessMonitor:Watching dir processes D:\SteamLibrary\steamapps\common\Hollow Knight, False, False
+26-12 14:01:08.116|DEBUG|EpicLibrary#EpicLibrary:Found 3 installed Epic games.
+26-12 14:01:17.561|DEBUG|EpicLibrary#EpicLibrary:Found 155 library Epic games.
+26-12 14:01:17.679|DEBUG|GogLibrary#GogLibrary:Found 0 installed GOG games.
+26-12 14:01:20.886|DEBUG|GogLibrary#GogLibrary:Found 51 library GOG games.
+26-12 14:01:24.412|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004657/en_IE?country=IE.
+26-12 14:01:24.977|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+26-12 14:01:25.468|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/OFB-EAST:109552155/en_IE?country=IE.
+26-12 14:01:25.951|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004662/en_IE?country=IE.
+26-12 14:01:26.419|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002694/en_IE?country=IE.
+26-12 14:01:26.911|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002015/en_IE?country=IE.
+26-12 14:01:27.389|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+26-12 14:01:27.676|DEBUG|OriginLibrary#OriginLibrary:Found 7 library EA games.
+26-12 14:01:27.676|DEBUG|OriginLibrary#OriginLibrary:Found 0 installed EA games.
+26-12 14:01:27.967|DEBUG|SteamLibrary#SteamLibrary:Found 14 installed Steam games.
+26-12 14:01:28.692|DEBUG|SteamLibrary#SteamLibrary:Found 86 library Steam games.
+26-12 14:01:28.702|DEBUG|UplayLibrary#UplayLibrary:Found 1 installed Ubisoft Connect games.
+26-12 14:01:28.918|DEBUG|UplayLibrary#UplayLibrary:Found 39 library Ubisoft Connect games.
+26-12 18:59:39.800|DEBUG|EpicLibrary#EpicLibrary:Found 3 installed Epic games.
+26-12 18:59:46.774|DEBUG|EpicLibrary#EpicLibrary:Found 155 library Epic games.
+26-12 18:59:46.810|DEBUG|GogLibrary#GogLibrary:Found 0 installed GOG games.
+26-12 18:59:50.383|DEBUG|GogLibrary#GogLibrary:Found 51 library GOG games.
+26-12 18:59:54.117|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004657/en_IE?country=IE.
+26-12 18:59:55.516|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+26-12 18:59:56.319|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/OFB-EAST:109552155/en_IE?country=IE.
+26-12 18:59:56.955|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004662/en_IE?country=IE.
+26-12 18:59:57.606|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002694/en_IE?country=IE.
+26-12 18:59:58.327|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002015/en_IE?country=IE.
+26-12 18:59:59.216|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+26-12 18:59:59.562|DEBUG|OriginLibrary#OriginLibrary:Found 7 library EA games.
+26-12 18:59:59.562|DEBUG|OriginLibrary#OriginLibrary:Found 0 installed EA games.
+26-12 18:59:59.721|DEBUG|SteamLibrary#SteamLibrary:Found 14 installed Steam games.
+26-12 19:00:00.527|DEBUG|SteamLibrary#SteamLibrary:Found 86 library Steam games.
+26-12 19:00:00.527|DEBUG|UplayLibrary#UplayLibrary:Found 1 installed Ubisoft Connect games.
+26-12 19:00:00.814|DEBUG|UplayLibrary#UplayLibrary:Found 39 library Ubisoft Connect games.
+27-12 10:04:02.141|DEBUG|EpicLibrary#EpicLibrary:Found 3 installed Epic games.
+27-12 10:04:09.881|DEBUG|EpicLibrary#EpicLibrary:Found 155 library Epic games.
+27-12 10:04:09.909|DEBUG|GogLibrary#GogLibrary:Found 0 installed GOG games.
+27-12 10:04:12.921|DEBUG|GogLibrary#GogLibrary:Found 51 library GOG games.
+27-12 10:04:15.916|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004657/en_IE?country=IE.
+27-12 10:04:16.497|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+27-12 10:04:16.971|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/OFB-EAST:109552155/en_IE?country=IE.
+27-12 10:04:17.441|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004662/en_IE?country=IE.
+27-12 10:04:17.990|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002694/en_IE?country=IE.
+27-12 10:04:18.518|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002015/en_IE?country=IE.
+27-12 10:04:18.999|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+27-12 10:04:19.235|DEBUG|OriginLibrary#OriginLibrary:Found 7 library EA games.
+27-12 10:04:19.235|DEBUG|OriginLibrary#OriginLibrary:Found 0 installed EA games.
+27-12 10:04:19.428|DEBUG|SteamLibrary#SteamLibrary:Found 14 installed Steam games.
+27-12 10:04:20.163|DEBUG|SteamLibrary#SteamLibrary:Found 86 library Steam games.
+27-12 10:04:20.163|DEBUG|UplayLibrary#UplayLibrary:Found 1 installed Ubisoft Connect games.
+27-12 10:04:20.487|DEBUG|UplayLibrary#UplayLibrary:Found 39 library Ubisoft Connect games.
+27-12 12:38:01.515|DEBUG|SteamLibrary#ProcessStarter:Opening URL: steam://rungameid/292030
+27-12 12:38:01.680|DEBUG|SteamLibrary#ProcessMonitor:Watching dir processes D:\SteamLibrary\steamapps\common\The Witcher 3, False, False
+27-12 18:16:45.084|DEBUG|EpicLibrary#EpicLibrary:Found 3 installed Epic games.
+27-12 18:16:53.764|DEBUG|EpicLibrary#EpicLibrary:Found 156 library Epic games.
+27-12 18:16:53.860|DEBUG|GogLibrary#GogLibrary:Found 0 installed GOG games.
+27-12 18:16:57.116|DEBUG|GogLibrary#GogLibrary:Found 51 library GOG games.
+27-12 18:17:01.107|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004657/en_IE?country=IE.
+27-12 18:17:01.640|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+27-12 18:17:02.187|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/OFB-EAST:109552155/en_IE?country=IE.
+27-12 18:17:02.731|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004662/en_IE?country=IE.
+27-12 18:17:03.261|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002694/en_IE?country=IE.
+27-12 18:17:03.735|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002015/en_IE?country=IE.
+27-12 18:17:04.188|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+27-12 18:17:04.431|DEBUG|OriginLibrary#OriginLibrary:Found 7 library EA games.
+27-12 18:17:04.431|DEBUG|OriginLibrary#OriginLibrary:Found 0 installed EA games.
+27-12 18:17:04.580|DEBUG|SteamLibrary#SteamLibrary:Found 14 installed Steam games.
+27-12 18:17:05.312|DEBUG|SteamLibrary#SteamLibrary:Found 87 library Steam games.
+27-12 18:17:05.319|DEBUG|UplayLibrary#UplayLibrary:Found 1 installed Ubisoft Connect games.
+27-12 18:17:05.606|DEBUG|UplayLibrary#UplayLibrary:Found 39 library Ubisoft Connect games.
+27-12 18:17:12.058|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 70, found 20
+27-12 18:48:26.216|DEBUG|SteamLibrary#ProcessStarter:Opening URL: steam://rungameid/367520
+27-12 18:48:26.418|DEBUG|SteamLibrary#ProcessMonitor:Watching dir processes D:\SteamLibrary\steamapps\common\Hollow Knight, False, False
+28-12 10:02:09.939|DEBUG|EpicLibrary#EpicLibrary:Found 3 installed Epic games.
+28-12 10:02:17.774|DEBUG|EpicLibrary#EpicLibrary:Found 156 library Epic games.
+28-12 10:02:17.810|DEBUG|GogLibrary#GogLibrary:Found 0 installed GOG games.
+28-12 10:02:20.329|DEBUG|GogLibrary#GogLibrary:Found 51 library GOG games.
+28-12 10:02:23.984|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004657/en_IE?country=IE.
+28-12 10:02:24.877|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+28-12 10:02:25.472|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/OFB-EAST:109552155/en_IE?country=IE.
+28-12 10:02:26.042|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004662/en_IE?country=IE.
+28-12 10:02:26.571|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002694/en_IE?country=IE.
+28-12 10:02:27.206|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002015/en_IE?country=IE.
+28-12 10:02:27.768|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+28-12 10:02:28.083|DEBUG|OriginLibrary#OriginLibrary:Found 7 library EA games.
+28-12 10:02:28.089|DEBUG|OriginLibrary#OriginLibrary:Found 0 installed EA games.
+28-12 10:02:28.277|DEBUG|SteamLibrary#SteamLibrary:Found 14 installed Steam games.
+28-12 10:02:29.076|DEBUG|SteamLibrary#SteamLibrary:Found 87 library Steam games.
+28-12 10:02:29.085|DEBUG|UplayLibrary#UplayLibrary:Found 1 installed Ubisoft Connect games.
+28-12 10:02:29.357|DEBUG|UplayLibrary#UplayLibrary:Found 39 library Ubisoft Connect games.
+28-12 12:43:02.226|DEBUG|SteamLibrary#ProcessStarter:Opening URL: steam://rungameid/292030
+28-12 12:43:02.408|DEBUG|SteamLibrary#ProcessMonitor:Watching dir processes D:\SteamLibrary\steamapps\common\The Witcher 3, False, False
+29-12 10:03:33.006|DEBUG|EpicLibrary#EpicLibrary:Found 3 installed Epic games.
+29-12 10:03:43.738|DEBUG|EpicLibrary#EpicLibrary:Found 157 library Epic games.
+29-12 10:03:43.950|DEBUG|GogLibrary#GogLibrary:Found 0 installed GOG games.
+29-12 10:03:47.392|DEBUG|GogLibrary#GogLibrary:Found 51 library GOG games.
+29-12 10:03:50.818|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004657/en_IE?country=IE.
+29-12 10:03:51.603|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+29-12 10:03:52.071|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/OFB-EAST:109552155/en_IE?country=IE.
+29-12 10:03:52.670|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004662/en_IE?country=IE.
+29-12 10:03:53.191|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002694/en_IE?country=IE.
+29-12 10:03:53.727|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002015/en_IE?country=IE.
+29-12 10:03:54.252|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+29-12 10:03:54.514|DEBUG|OriginLibrary#OriginLibrary:Found 7 library EA games.
+29-12 10:03:54.514|DEBUG|OriginLibrary#OriginLibrary:Found 0 installed EA games.
+29-12 10:03:54.692|DEBUG|SteamLibrary#SteamLibrary:Found 14 installed Steam games.
+29-12 10:03:55.480|DEBUG|SteamLibrary#SteamLibrary:Found 87 library Steam games.
+29-12 10:03:55.480|DEBUG|UplayLibrary#UplayLibrary:Found 1 installed Ubisoft Connect games.
+29-12 10:03:55.792|DEBUG|UplayLibrary#UplayLibrary:Found 39 library Ubisoft Connect games.
+29-12 14:58:00.492|DEBUG|SteamLibrary#ProcessStarter:Opening URL: steam://rungameid/367520
+29-12 14:58:00.677|DEBUG|SteamLibrary#ProcessMonitor:Watching dir processes D:\SteamLibrary\steamapps\common\Hollow Knight, False, False
+29-12 15:51:37.078|DEBUG|SteamLibrary#ProcessStarter:Opening URL: steam://rungameid/292030
+29-12 15:51:37.112|DEBUG|SteamLibrary#ProcessMonitor:Watching dir processes D:\SteamLibrary\steamapps\common\The Witcher 3, False, False
+30-12 10:30:06.959|DEBUG|EpicLibrary#EpicLibrary:Found 3 installed Epic games.
+30-12 10:30:14.885|DEBUG|EpicLibrary#EpicLibrary:Found 157 library Epic games.
+30-12 10:30:14.926|DEBUG|GogLibrary#GogLibrary:Found 0 installed GOG games.
+30-12 10:30:18.253|DEBUG|GogLibrary#GogLibrary:Found 51 library GOG games.
+30-12 10:30:21.810|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004657/en_IE?country=IE.
+30-12 10:30:22.366|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+30-12 10:30:22.865|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/OFB-EAST:109552155/en_IE?country=IE.
+30-12 10:30:23.373|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004662/en_IE?country=IE.
+30-12 10:30:23.958|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002694/en_IE?country=IE.
+30-12 10:30:24.441|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002015/en_IE?country=IE.
+30-12 10:30:24.978|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+30-12 10:30:25.228|DEBUG|OriginLibrary#OriginLibrary:Found 7 library EA games.
+30-12 10:30:25.228|DEBUG|OriginLibrary#OriginLibrary:Found 0 installed EA games.
+30-12 10:30:25.367|INFO |SteamLibrary#SteamLibrary:Steam game Proton Experimental is not properly installed or it's a soundtrack, skipping.
+30-12 10:30:25.367|INFO |SteamLibrary#SteamLibrary:Steam game Proton EasyAntiCheat Runtime is not properly installed or it's a soundtrack, skipping.
+30-12 10:30:25.405|DEBUG|SteamLibrary#SteamLibrary:Found 12 installed Steam games.
+30-12 10:30:26.115|DEBUG|SteamLibrary#SteamLibrary:Found 87 library Steam games.
+30-12 10:30:26.117|DEBUG|UplayLibrary#UplayLibrary:Found 1 installed Ubisoft Connect games.
+30-12 10:30:26.488|DEBUG|UplayLibrary#UplayLibrary:Found 39 library Ubisoft Connect games.
+30-12 13:24:53.006|DEBUG|EpicLibrary#EpicLibrary:Found 3 installed Epic games.
+30-12 13:25:00.782|DEBUG|EpicLibrary#EpicLibrary:Found 157 library Epic games.
+30-12 13:25:00.812|DEBUG|GogLibrary#GogLibrary:Found 0 installed GOG games.
+30-12 13:25:04.219|DEBUG|GogLibrary#GogLibrary:Found 51 library GOG games.
+30-12 13:25:09.003|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004657/en_IE?country=IE.
+30-12 13:25:09.833|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+30-12 13:25:10.306|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/OFB-EAST:109552155/en_IE?country=IE.
+30-12 13:25:10.820|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004662/en_IE?country=IE.
+30-12 13:25:11.391|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002694/en_IE?country=IE.
+30-12 13:25:11.888|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002015/en_IE?country=IE.
+30-12 13:25:12.486|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+30-12 13:25:12.748|DEBUG|OriginLibrary#OriginLibrary:Found 7 library EA games.
+30-12 13:25:12.748|DEBUG|OriginLibrary#OriginLibrary:Found 0 installed EA games.
+30-12 13:25:12.793|INFO |SteamLibrary#SteamLibrary:Steam game Proton Experimental is not properly installed or it's a soundtrack, skipping.
+30-12 13:25:12.793|INFO |SteamLibrary#SteamLibrary:Steam game Proton EasyAntiCheat Runtime is not properly installed or it's a soundtrack, skipping.
+30-12 13:25:12.813|DEBUG|SteamLibrary#SteamLibrary:Found 12 installed Steam games.
+30-12 13:25:13.545|DEBUG|SteamLibrary#SteamLibrary:Found 87 library Steam games.
+30-12 13:25:13.545|DEBUG|UplayLibrary#UplayLibrary:Found 1 installed Ubisoft Connect games.
+30-12 13:25:14.091|DEBUG|UplayLibrary#UplayLibrary:Found 39 library Ubisoft Connect games.
+31-12 03:31:48.529|DEBUG|EpicLibrary#EpicLibrary:Found 3 installed Epic games.
+31-12 03:31:58.689|DEBUG|EpicLibrary#EpicLibrary:Found 158 library Epic games.
+31-12 03:31:58.806|DEBUG|GogLibrary#GogLibrary:Found 0 installed GOG games.
+31-12 03:32:02.143|DEBUG|GogLibrary#GogLibrary:Found 51 library GOG games.
+31-12 03:32:06.338|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004657/en_IE?country=IE.
+31-12 03:32:07.296|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+31-12 03:32:07.778|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/OFB-EAST:109552155/en_IE?country=IE.
+31-12 03:32:08.256|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004662/en_IE?country=IE.
+31-12 03:32:08.966|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002694/en_IE?country=IE.
+31-12 03:32:09.681|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002015/en_IE?country=IE.
+31-12 03:32:10.465|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+31-12 03:32:11.000|DEBUG|OriginLibrary#OriginLibrary:Found 7 library EA games.
+31-12 03:32:11.007|DEBUG|OriginLibrary#OriginLibrary:Found 0 installed EA games.
+31-12 03:32:11.076|INFO |SteamLibrary#SteamLibrary:Steam game Proton EasyAntiCheat Runtime is not properly installed or it's a soundtrack, skipping.
+31-12 03:32:11.128|DEBUG|SteamLibrary#SteamLibrary:Found 13 installed Steam games.
+31-12 03:32:12.559|DEBUG|SteamLibrary#SteamLibrary:Found 87 library Steam games.
+31-12 03:32:12.559|DEBUG|UplayLibrary#UplayLibrary:Found 1 installed Ubisoft Connect games.
+31-12 03:32:12.877|DEBUG|UplayLibrary#UplayLibrary:Found 39 library Ubisoft Connect games.
+31-12 16:10:27.030|DEBUG|EpicLibrary#EpicLibrary:Found 3 installed Epic games.
+31-12 16:10:35.074|DEBUG|EpicLibrary#EpicLibrary:Found 14 library Epic games.
+31-12 19:49:00.715|DEBUG|EpicLibrary#EpicLibrary:Found 3 installed Epic games.
+31-12 19:49:10.372|DEBUG|EpicLibrary#EpicLibrary:Found 158 library Epic games.
+31-12 19:49:10.417|DEBUG|GogLibrary#GogLibrary:Found 0 installed GOG games.
+31-12 19:49:13.806|DEBUG|GogLibrary#GogLibrary:Found 51 library GOG games.
+31-12 19:49:17.288|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004657/en_IE?country=IE.
+31-12 19:49:18.407|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+31-12 19:49:18.650|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/OFB-EAST:109552155/en_IE?country=IE.
+31-12 19:49:19.128|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004662/en_IE?country=IE.
+31-12 19:49:19.609|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002694/en_IE?country=IE.
+31-12 19:49:19.857|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002015/en_IE?country=IE.
+31-12 19:49:20.112|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+31-12 19:49:20.347|DEBUG|OriginLibrary#OriginLibrary:Found 7 library EA games.
+31-12 19:49:20.347|DEBUG|OriginLibrary#OriginLibrary:Found 0 installed EA games.
+31-12 19:49:20.427|INFO |SteamLibrary#SteamLibrary:Steam game Proton EasyAntiCheat Runtime is not properly installed or it's a soundtrack, skipping.
+31-12 19:49:20.441|DEBUG|SteamLibrary#SteamLibrary:Found 13 installed Steam games.
+31-12 19:49:21.349|DEBUG|SteamLibrary#SteamLibrary:Found 87 library Steam games.
+31-12 19:49:21.379|DEBUG|UplayLibrary#UplayLibrary:Found 1 installed Ubisoft Connect games.
+31-12 19:49:21.670|DEBUG|UplayLibrary#UplayLibrary:Found 39 library Ubisoft Connect games.
+01-01 12:04:52.764|DEBUG|EpicLibrary#EpicLibrary:Found 3 installed Epic games.
+01-01 12:05:00.616|DEBUG|EpicLibrary#EpicLibrary:Found 158 library Epic games.
+01-01 12:05:00.681|DEBUG|GogLibrary#GogLibrary:Found 0 installed GOG games.
+01-01 12:05:06.967|DEBUG|GogLibrary#GogLibrary:Found 51 library GOG games.
+01-01 12:05:12.469|DEBUG|OriginLibrary#OriginLibrary:Found 0 library EA games.
+01-01 12:05:12.469|DEBUG|OriginLibrary#OriginLibrary:Found 0 installed EA games.
+01-01 12:05:12.630|INFO |SteamLibrary#SteamLibrary:Steam game Proton EasyAntiCheat Runtime is not properly installed or it's a soundtrack, skipping.
+01-01 12:05:12.759|DEBUG|SteamLibrary#SteamLibrary:Found 13 installed Steam games.
+01-01 12:05:13.529|DEBUG|SteamLibrary#SteamLibrary:Found 87 library Steam games.
+01-01 12:05:13.580|DEBUG|UplayLibrary#UplayLibrary:Found 1 installed Ubisoft Connect games.
+01-01 12:05:13.930|DEBUG|UplayLibrary#UplayLibrary:Found 39 library Ubisoft Connect games.
+03-01 09:43:15.781|DEBUG|EpicLibrary#EpicLibrary:Found 3 installed Epic games.
+03-01 09:43:25.002|DEBUG|EpicLibrary#EpicLibrary:Found 158 library Epic games.
+03-01 09:43:25.048|DEBUG|GogLibrary#GogLibrary:Found 0 installed GOG games.
+03-01 09:43:28.834|DEBUG|GogLibrary#GogLibrary:Found 51 library GOG games.
+03-01 09:43:32.090|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004657/en_IE?country=IE.
+03-01 09:43:32.789|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+03-01 09:43:33.557|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/OFB-EAST:109552155/en_IE?country=IE.
+03-01 09:43:34.182|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004662/en_IE?country=IE.
+03-01 09:43:34.707|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002694/en_IE?country=IE.
+03-01 09:43:35.282|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002015/en_IE?country=IE.
+03-01 09:43:35.776|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+03-01 09:43:36.023|DEBUG|OriginLibrary#OriginLibrary:Found 7 library EA games.
+03-01 09:43:36.023|DEBUG|OriginLibrary#OriginLibrary:Found 0 installed EA games.
+03-01 09:43:36.533|INFO |SteamLibrary#SteamLibrary:Steam game Proton EasyAntiCheat Runtime is not properly installed or it's a soundtrack, skipping.
+03-01 09:43:36.555|DEBUG|SteamLibrary#SteamLibrary:Found 13 installed Steam games.
+03-01 09:43:37.757|DEBUG|SteamLibrary#SteamLibrary:Found 87 library Steam games.
+03-01 09:43:37.868|DEBUG|UplayLibrary#UplayLibrary:Found 1 installed Ubisoft Connect games.
+03-01 09:43:38.161|DEBUG|UplayLibrary#UplayLibrary:Found 39 library Ubisoft Connect games.
+04-01 15:25:01.419|DEBUG|EpicLibrary#EpicLibrary:Found 3 installed Epic games.
+04-01 15:25:10.024|DEBUG|EpicLibrary#EpicLibrary:Found 158 library Epic games.
+04-01 15:25:10.056|DEBUG|GogLibrary#GogLibrary:Found 0 installed GOG games.
+04-01 15:25:13.893|DEBUG|GogLibrary#GogLibrary:Found 51 library GOG games.
+04-01 15:25:17.105|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004657/en_IE?country=IE.
+04-01 15:25:17.838|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+04-01 15:25:18.608|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/OFB-EAST:109552155/en_IE?country=IE.
+04-01 15:25:19.272|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004662/en_IE?country=IE.
+04-01 15:25:19.812|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002694/en_IE?country=IE.
+04-01 15:25:20.410|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002015/en_IE?country=IE.
+04-01 15:25:20.947|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+04-01 15:25:21.678|DEBUG|OriginLibrary#OriginLibrary:Found 7 library EA games.
+04-01 15:25:21.678|DEBUG|OriginLibrary#OriginLibrary:Found 0 installed EA games.
+04-01 15:25:21.728|INFO |SteamLibrary#SteamLibrary:Steam game Proton EasyAntiCheat Runtime is not properly installed or it's a soundtrack, skipping.
+04-01 15:25:21.742|DEBUG|SteamLibrary#SteamLibrary:Found 13 installed Steam games.
+04-01 15:25:22.580|DEBUG|SteamLibrary#SteamLibrary:Found 87 library Steam games.
+04-01 15:25:22.606|DEBUG|UplayLibrary#UplayLibrary:Found 1 installed Ubisoft Connect games.
+04-01 15:25:22.900|DEBUG|UplayLibrary#UplayLibrary:Found 39 library Ubisoft Connect games.
+04-01 18:29:26.469|DEBUG|EpicLibrary#EpicLibrary:Found 3 installed Epic games.
+04-01 18:29:32.372|DEBUG|EpicLibrary#EpicLibrary:Found 158 library Epic games.
+04-01 18:29:32.406|DEBUG|GogLibrary#GogLibrary:Found 0 installed GOG games.
+04-01 18:29:36.630|DEBUG|GogLibrary#GogLibrary:Found 51 library GOG games.
+04-01 18:29:40.386|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004657/en_IE?country=IE.
+04-01 18:29:41.026|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+04-01 18:29:41.519|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/OFB-EAST:109552155/en_IE?country=IE.
+04-01 18:29:42.005|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004662/en_IE?country=IE.
+04-01 18:29:42.547|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002694/en_IE?country=IE.
+04-01 18:29:43.085|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002015/en_IE?country=IE.
+04-01 18:29:43.655|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+04-01 18:29:43.905|DEBUG|OriginLibrary#OriginLibrary:Found 7 library EA games.
+04-01 18:29:43.905|DEBUG|OriginLibrary#OriginLibrary:Found 0 installed EA games.
+04-01 18:29:44.546|INFO |SteamLibrary#SteamLibrary:Steam game Proton EasyAntiCheat Runtime is not properly installed or it's a soundtrack, skipping.
+04-01 18:29:44.583|DEBUG|SteamLibrary#SteamLibrary:Found 13 installed Steam games.
+04-01 18:29:45.404|DEBUG|SteamLibrary#SteamLibrary:Found 87 library Steam games.
+04-01 18:29:45.430|DEBUG|UplayLibrary#UplayLibrary:Found 1 installed Ubisoft Connect games.
+04-01 18:29:49.445|DEBUG|UplayLibrary#UplayLibrary:Found 39 library Ubisoft Connect games.
+04-01 21:34:58.279|DEBUG|EpicLibrary#EpicLibrary:Found 3 installed Epic games.
+04-01 21:35:04.088|DEBUG|EpicLibrary#EpicLibrary:Found 158 library Epic games.
+04-01 21:35:04.122|DEBUG|GogLibrary#GogLibrary:Found 0 installed GOG games.
+04-01 21:35:07.056|DEBUG|GogLibrary#GogLibrary:Found 51 library GOG games.
+04-01 21:35:10.903|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004657/en_IE?country=IE.
+04-01 21:35:11.495|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+04-01 21:35:12.082|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/OFB-EAST:109552155/en_IE?country=IE.
+04-01 21:35:12.829|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004662/en_IE?country=IE.
+04-01 21:35:13.388|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002694/en_IE?country=IE.
+04-01 21:35:13.922|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002015/en_IE?country=IE.
+04-01 21:35:14.469|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+04-01 21:35:14.733|DEBUG|OriginLibrary#OriginLibrary:Found 7 library EA games.
+04-01 21:35:14.733|DEBUG|OriginLibrary#OriginLibrary:Found 0 installed EA games.
+04-01 21:35:14.792|INFO |SteamLibrary#SteamLibrary:Steam game Proton EasyAntiCheat Runtime is not properly installed or it's a soundtrack, skipping.
+04-01 21:35:14.805|DEBUG|SteamLibrary#SteamLibrary:Found 14 installed Steam games.
+04-01 21:35:17.434|DEBUG|SteamLibrary#SteamLibrary:Found 87 library Steam games.
+04-01 21:35:17.527|DEBUG|UplayLibrary#UplayLibrary:Found 1 installed Ubisoft Connect games.
+04-01 21:35:17.903|DEBUG|UplayLibrary#UplayLibrary:Found 39 library Ubisoft Connect games.
+05-01 15:43:50.967|DEBUG|EpicLibrary#EpicLibrary:Found 3 installed Epic games.
+05-01 15:43:59.091|DEBUG|EpicLibrary#EpicLibrary:Found 158 library Epic games.
+05-01 15:43:59.148|DEBUG|GogLibrary#GogLibrary:Found 0 installed GOG games.
+05-01 15:44:02.336|DEBUG|GogLibrary#GogLibrary:Found 51 library GOG games.
+05-01 15:44:06.721|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004657/en_IE?country=IE.
+05-01 15:44:07.472|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+05-01 15:44:08.008|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/OFB-EAST:109552155/en_IE?country=IE.
+05-01 15:44:08.482|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004662/en_IE?country=IE.
+05-01 15:44:08.958|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002694/en_IE?country=IE.
+05-01 15:44:09.474|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002015/en_IE?country=IE.
+05-01 15:44:10.037|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+05-01 15:44:10.316|DEBUG|OriginLibrary#OriginLibrary:Found 7 library EA games.
+05-01 15:44:10.319|DEBUG|OriginLibrary#OriginLibrary:Found 0 installed EA games.
+05-01 15:44:10.428|INFO |SteamLibrary#SteamLibrary:Steam game Proton EasyAntiCheat Runtime is not properly installed or it's a soundtrack, skipping.
+05-01 15:44:10.441|DEBUG|SteamLibrary#SteamLibrary:Found 14 installed Steam games.
+05-01 15:44:11.305|DEBUG|SteamLibrary#SteamLibrary:Found 87 library Steam games.
+05-01 15:44:11.337|DEBUG|UplayLibrary#UplayLibrary:Found 1 installed Ubisoft Connect games.
+05-01 15:44:11.712|DEBUG|UplayLibrary#UplayLibrary:Found 39 library Ubisoft Connect games.
+05-01 16:08:42.819|DEBUG|EpicLibrary#EpicLibrary:Found 3 installed Epic games.
+05-01 16:08:46.622|DEBUG|EpicLibrary#EpicLibrary:Found 0 library Epic games.
+05-01 18:08:24.667|DEBUG|EpicLibrary#EpicLibrary:Found 3 installed Epic games.
+05-01 18:08:30.367|DEBUG|EpicLibrary#EpicLibrary:Found 158 library Epic games.
+05-01 18:08:30.406|DEBUG|GogLibrary#GogLibrary:Found 0 installed GOG games.
+05-01 18:08:33.462|DEBUG|GogLibrary#GogLibrary:Found 51 library GOG games.
+05-01 18:08:39.161|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004657/en_IE?country=IE.
+05-01 18:08:40.028|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+05-01 18:08:40.545|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/OFB-EAST:109552155/en_IE?country=IE.
+05-01 18:08:41.016|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004662/en_IE?country=IE.
+05-01 18:08:41.502|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002694/en_IE?country=IE.
+05-01 18:08:41.947|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002015/en_IE?country=IE.
+05-01 18:08:42.425|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+05-01 18:08:42.647|DEBUG|OriginLibrary#OriginLibrary:Found 7 library EA games.
+05-01 18:08:42.647|DEBUG|OriginLibrary#OriginLibrary:Found 0 installed EA games.
+05-01 18:08:42.712|INFO |SteamLibrary#SteamLibrary:Steam game Proton EasyAntiCheat Runtime is not properly installed or it's a soundtrack, skipping.
+05-01 18:08:42.726|DEBUG|SteamLibrary#SteamLibrary:Found 14 installed Steam games.
+05-01 18:08:43.463|DEBUG|SteamLibrary#SteamLibrary:Found 87 library Steam games.
+05-01 18:08:43.489|DEBUG|UplayLibrary#UplayLibrary:Found 1 installed Ubisoft Connect games.
+05-01 18:08:43.847|DEBUG|UplayLibrary#UplayLibrary:Found 39 library Ubisoft Connect games.
+10-01 10:44:29.666|DEBUG|EpicLibrary#EpicLibrary:Found 0 installed Epic games.
+10-01 10:44:44.758|DEBUG|EpicLibrary#EpicLibrary:Found 158 library Epic games.
+10-01 10:44:44.855|DEBUG|GogLibrary#GogLibrary:Found 0 installed GOG games.
+10-01 10:44:48.075|DEBUG|GogLibrary#GogLibrary:Found 51 library GOG games.
+10-01 10:44:52.218|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004657/en_IE?country=IE.
+10-01 10:44:54.343|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+10-01 10:44:55.296|DEBUG|OriginLibrary#OriginLibrary:Found 2 library EA games.
+10-01 10:44:55.296|DEBUG|OriginLibrary#OriginLibrary:Found 0 installed EA games.
+11-01 16:10:09.045|DEBUG|EpicLibrary#EpicLibrary:Found 0 installed Epic games.
+11-01 16:10:15.941|DEBUG|EpicLibrary#EpicLibrary:Found 11 library Epic games.
+12-01 19:19:29.571|DEBUG|EpicLibrary#EpicLibrary:Found 0 installed Epic games.
+12-01 19:19:45.026|DEBUG|EpicLibrary#EpicLibrary:Found 158 library Epic games.
+12-01 19:19:45.067|DEBUG|GogLibrary#GogLibrary:Found 0 installed GOG games.
+12-01 19:19:50.263|DEBUG|GogLibrary#GogLibrary:Found 51 library GOG games.
+12-01 19:19:55.001|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004657/en_IE?country=IE.
+12-01 19:19:55.918|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+12-01 19:19:56.624|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/OFB-EAST:109552155/en_IE?country=IE.
+12-01 19:19:57.558|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004662/en_IE?country=IE.
+12-01 19:19:58.798|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002694/en_IE?country=IE.
+12-01 19:19:59.478|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002015/en_IE?country=IE.
+12-01 19:20:00.161|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+12-01 19:20:00.650|DEBUG|OriginLibrary#OriginLibrary:Found 7 library EA games.
+12-01 19:20:00.650|DEBUG|OriginLibrary#OriginLibrary:Found 0 installed EA games.
+12-01 19:20:00.967|INFO |SteamLibrary#SteamLibrary:Steam game Proton EasyAntiCheat Runtime is not properly installed or it's a soundtrack, skipping.
+12-01 19:20:01.114|DEBUG|SteamLibrary#SteamLibrary:Found 8 installed Steam games.
+12-01 19:20:02.057|DEBUG|SteamLibrary#SteamLibrary:Found 87 library Steam games.
+12-01 19:20:02.104|DEBUG|UplayLibrary#UplayLibrary:Found 0 installed Ubisoft Connect games.
+12-01 19:20:02.491|DEBUG|UplayLibrary#UplayLibrary:Found 39 library Ubisoft Connect games.
+14-01 03:24:30.267|DEBUG|EpicLibrary#EpicLibrary:Found 0 installed Epic games.
+14-01 03:24:40.924|DEBUG|EpicLibrary#EpicLibrary:Found 55 library Epic games.
+15-01 11:29:19.528|DEBUG|EpicLibrary#EpicLibrary:Found 1 installed Epic games.
+15-01 11:29:29.076|DEBUG|EpicLibrary#EpicLibrary:Found 158 library Epic games.
+15-01 11:29:29.193|DEBUG|GogLibrary#GogLibrary:Found 0 installed GOG games.
+15-01 11:29:31.596|DEBUG|GogLibrary#GogLibrary:Found 51 library GOG games.
+15-01 11:29:35.093|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004657/en_IE?country=IE.
+15-01 11:29:35.736|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+15-01 11:29:36.234|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/OFB-EAST:109552155/en_IE?country=IE.
+15-01 11:29:36.777|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004662/en_IE?country=IE.
+15-01 11:29:37.387|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002694/en_IE?country=IE.
+15-01 11:29:37.877|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002015/en_IE?country=IE.
+15-01 11:29:38.503|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+15-01 11:29:38.935|DEBUG|OriginLibrary#OriginLibrary:Found 7 library EA games.
+15-01 11:29:38.935|DEBUG|OriginLibrary#OriginLibrary:Found 0 installed EA games.
+15-01 11:29:39.047|INFO |SteamLibrary#SteamLibrary:Steam game Proton EasyAntiCheat Runtime is not properly installed or it's a soundtrack, skipping.
+15-01 11:29:39.061|DEBUG|SteamLibrary#SteamLibrary:Found 10 installed Steam games.
+15-01 11:29:39.794|DEBUG|SteamLibrary#SteamLibrary:Found 87 library Steam games.
+15-01 11:29:39.805|DEBUG|UplayLibrary#UplayLibrary:Found 0 installed Ubisoft Connect games.
+15-01 11:29:41.574|DEBUG|UplayLibrary#UplayLibrary:Found 39 library Ubisoft Connect games.
+17-01 04:13:00.862|DEBUG|EpicLibrary#EpicLibrary:Found 1 installed Epic games.
+17-01 04:13:13.831|DEBUG|EpicLibrary#EpicLibrary:Found 158 library Epic games.
+17-01 04:13:13.857|DEBUG|GogLibrary#GogLibrary:Found 0 installed GOG games.
+17-01 04:13:20.320|DEBUG|GogLibrary#GogLibrary:Found 51 library GOG games.
+17-01 04:13:23.806|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004657/en_IE?country=IE.
+17-01 04:13:24.502|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+17-01 04:13:24.970|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/OFB-EAST:109552155/en_IE?country=IE.
+17-01 04:13:25.487|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004662/en_IE?country=IE.
+17-01 04:13:25.948|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002694/en_IE?country=IE.
+17-01 04:13:26.459|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002015/en_IE?country=IE.
+17-01 04:13:26.934|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+17-01 04:13:27.157|DEBUG|OriginLibrary#OriginLibrary:Found 7 library EA games.
+17-01 04:13:27.163|DEBUG|OriginLibrary#OriginLibrary:Found 0 installed EA games.
+17-01 04:13:27.242|INFO |SteamLibrary#SteamLibrary:Steam game Proton EasyAntiCheat Runtime is not properly installed or it's a soundtrack, skipping.
+17-01 04:13:27.264|DEBUG|SteamLibrary#SteamLibrary:Found 10 installed Steam games.
+17-01 04:13:28.096|DEBUG|SteamLibrary#SteamLibrary:Found 87 library Steam games.
+17-01 04:13:28.100|DEBUG|UplayLibrary#UplayLibrary:Found 0 installed Ubisoft Connect games.
+17-01 04:13:28.381|DEBUG|UplayLibrary#UplayLibrary:Found 39 library Ubisoft Connect games.
+17-01 14:59:53.773|DEBUG|EpicLibrary#EpicLibrary:Found 1 installed Epic games.
+17-01 14:59:58.684|DEBUG|EpicLibrary#EpicLibrary:Found 158 library Epic games.
+17-01 14:59:58.714|DEBUG|GogLibrary#GogLibrary:Found 0 installed GOG games.
+17-01 15:00:03.128|DEBUG|GogLibrary#GogLibrary:Found 51 library GOG games.
+17-01 15:00:08.546|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004657/en_IE?country=IE.
+17-01 15:00:09.420|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+17-01 15:00:10.095|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/OFB-EAST:109552155/en_IE?country=IE.
+17-01 15:00:10.968|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004662/en_IE?country=IE.
+17-01 15:00:11.573|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002694/en_IE?country=IE.
+17-01 15:00:12.266|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002015/en_IE?country=IE.
+17-01 15:00:13.084|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+17-01 15:00:13.431|DEBUG|OriginLibrary#OriginLibrary:Found 7 library EA games.
+17-01 15:00:13.431|DEBUG|OriginLibrary#OriginLibrary:Found 0 installed EA games.
+17-01 15:00:13.639|INFO |SteamLibrary#SteamLibrary:Steam game Proton EasyAntiCheat Runtime is not properly installed or it's a soundtrack, skipping.
+17-01 15:00:13.652|DEBUG|SteamLibrary#SteamLibrary:Found 10 installed Steam games.
+17-01 15:00:15.893|DEBUG|SteamLibrary#SteamLibrary:Found 87 library Steam games.
+17-01 15:00:15.898|DEBUG|UplayLibrary#UplayLibrary:Found 0 installed Ubisoft Connect games.
+17-01 15:00:16.308|DEBUG|UplayLibrary#UplayLibrary:Found 39 library Ubisoft Connect games.
+17-01 18:33:09.359|DEBUG|EpicLibrary#EpicLibrary:Found 1 installed Epic games.
+17-01 18:33:16.316|DEBUG|EpicLibrary#EpicLibrary:Found 158 library Epic games.
+17-01 18:33:16.346|DEBUG|GogLibrary#GogLibrary:Found 0 installed GOG games.
+17-01 18:33:19.202|DEBUG|GogLibrary#GogLibrary:Found 51 library GOG games.
+17-01 18:33:22.761|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004657/en_IE?country=IE.
+17-01 18:33:23.355|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+17-01 18:33:23.983|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/OFB-EAST:109552155/en_IE?country=IE.
+17-01 18:33:24.688|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004662/en_IE?country=IE.
+17-01 18:33:25.303|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002694/en_IE?country=IE.
+17-01 18:33:25.809|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002015/en_IE?country=IE.
+17-01 18:33:26.544|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+17-01 18:33:26.829|DEBUG|OriginLibrary#OriginLibrary:Found 7 library EA games.
+17-01 18:33:26.829|DEBUG|OriginLibrary#OriginLibrary:Found 0 installed EA games.
+17-01 18:33:26.926|INFO |SteamLibrary#SteamLibrary:Steam game Proton EasyAntiCheat Runtime is not properly installed or it's a soundtrack, skipping.
+17-01 18:33:26.939|DEBUG|SteamLibrary#SteamLibrary:Found 10 installed Steam games.
+17-01 18:33:29.164|DEBUG|SteamLibrary#SteamLibrary:Found 87 library Steam games.
+17-01 18:33:29.164|DEBUG|UplayLibrary#UplayLibrary:Found 0 installed Ubisoft Connect games.
+17-01 18:33:29.447|DEBUG|UplayLibrary#UplayLibrary:Found 39 library Ubisoft Connect games.
+18-01 15:09:07.833|DEBUG|EpicLibrary#EpicLibrary:Found 1 installed Epic games.
+18-01 15:09:15.300|DEBUG|EpicLibrary#EpicLibrary:Found 158 library Epic games.
+18-01 15:09:15.337|DEBUG|GogLibrary#GogLibrary:Found 0 installed GOG games.
+18-01 15:09:20.775|DEBUG|GogLibrary#GogLibrary:Found 51 library GOG games.
+18-01 15:09:24.604|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004657/en_IE?country=IE.
+18-01 15:09:25.681|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+18-01 15:09:26.318|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/OFB-EAST:109552155/en_IE?country=IE.
+18-01 15:09:26.935|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004662/en_IE?country=IE.
+18-01 15:09:27.669|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002694/en_IE?country=IE.
+18-01 15:09:28.317|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002015/en_IE?country=IE.
+18-01 15:09:29.358|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+18-01 15:09:29.717|DEBUG|OriginLibrary#OriginLibrary:Found 7 library EA games.
+18-01 15:09:29.717|DEBUG|OriginLibrary#OriginLibrary:Found 0 installed EA games.
+18-01 15:09:29.794|INFO |SteamLibrary#SteamLibrary:Steam game Proton EasyAntiCheat Runtime is not properly installed or it's a soundtrack, skipping.
+18-01 15:09:29.807|DEBUG|SteamLibrary#SteamLibrary:Found 10 installed Steam games.
+18-01 15:09:31.946|DEBUG|SteamLibrary#SteamLibrary:Found 87 library Steam games.
+18-01 15:09:31.946|DEBUG|UplayLibrary#UplayLibrary:Found 0 installed Ubisoft Connect games.
+18-01 15:09:32.385|DEBUG|UplayLibrary#UplayLibrary:Found 39 library Ubisoft Connect games.
+20-01 13:37:40.146|DEBUG|EpicLibrary#EpicLibrary:Found 1 installed Epic games.
+20-01 13:37:49.393|DEBUG|EpicLibrary#EpicLibrary:Found 158 library Epic games.
+20-01 13:37:49.426|DEBUG|GogLibrary#GogLibrary:Found 0 installed GOG games.
+20-01 13:37:52.422|DEBUG|GogLibrary#GogLibrary:Found 51 library GOG games.
+20-01 13:37:55.546|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004657/en_IE?country=IE.
+20-01 13:37:56.491|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+20-01 13:37:57.159|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/OFB-EAST:109552155/en_IE?country=IE.
+20-01 13:37:57.860|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004662/en_IE?country=IE.
+20-01 13:37:58.484|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002694/en_IE?country=IE.
+20-01 13:37:59.259|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002015/en_IE?country=IE.
+20-01 13:37:59.945|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+20-01 13:38:00.278|DEBUG|OriginLibrary#OriginLibrary:Found 7 library EA games.
+20-01 13:38:00.278|DEBUG|OriginLibrary#OriginLibrary:Found 0 installed EA games.
+20-01 13:38:00.439|INFO |SteamLibrary#SteamLibrary:Steam game Proton EasyAntiCheat Runtime is not properly installed or it's a soundtrack, skipping.
+20-01 13:38:00.559|DEBUG|SteamLibrary#SteamLibrary:Found 10 installed Steam games.
+20-01 13:38:01.316|DEBUG|SteamLibrary#SteamLibrary:Found 88 library Steam games.
+20-01 13:38:01.394|DEBUG|UplayLibrary#UplayLibrary:Found 0 installed Ubisoft Connect games.
+20-01 13:38:01.680|DEBUG|UplayLibrary#UplayLibrary:Found 39 library Ubisoft Connect games.
+20-01 13:38:06.897|DEBUG|SteamLibrary#MetadataProvider:Setting tags for 1938090, found 20
+21-01 10:48:45.079|DEBUG|EpicLibrary#EpicLibrary:Found 1 installed Epic games.
+21-01 10:48:51.340|DEBUG|EpicLibrary#EpicLibrary:Found 158 library Epic games.
+21-01 10:48:51.373|DEBUG|GogLibrary#GogLibrary:Found 0 installed GOG games.
+21-01 10:48:54.479|DEBUG|GogLibrary#GogLibrary:Found 51 library GOG games.
+21-01 10:48:57.823|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004657/en_IE?country=IE.
+21-01 10:48:58.469|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+21-01 10:48:58.920|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/OFB-EAST:109552155/en_IE?country=IE.
+21-01 10:48:59.374|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004662/en_IE?country=IE.
+21-01 10:48:59.942|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002694/en_IE?country=IE.
+21-01 10:49:00.500|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002015/en_IE?country=IE.
+21-01 10:49:00.961|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+21-01 10:49:01.225|DEBUG|OriginLibrary#OriginLibrary:Found 7 library EA games.
+21-01 10:49:01.225|DEBUG|OriginLibrary#OriginLibrary:Found 0 installed EA games.
+21-01 10:49:01.255|INFO |SteamLibrary#SteamLibrary:Steam game Proton EasyAntiCheat Runtime is not properly installed or it's a soundtrack, skipping.
+21-01 10:49:01.255|DEBUG|SteamLibrary#SteamLibrary:Found 10 installed Steam games.
+21-01 10:49:04.099|DEBUG|SteamLibrary#SteamLibrary:Found 88 library Steam games.
+21-01 10:49:04.099|DEBUG|UplayLibrary#UplayLibrary:Found 0 installed Ubisoft Connect games.
+21-01 10:49:04.325|DEBUG|UplayLibrary#UplayLibrary:Found 39 library Ubisoft Connect games.
+21-01 21:40:53.267|DEBUG|EpicLibrary#EpicLibrary:Found 1 installed Epic games.
+21-01 21:40:59.411|DEBUG|EpicLibrary#EpicLibrary:Found 158 library Epic games.
+21-01 21:40:59.439|DEBUG|GogLibrary#GogLibrary:Found 0 installed GOG games.
+21-01 21:41:02.523|DEBUG|GogLibrary#GogLibrary:Found 51 library GOG games.
+21-01 21:41:06.372|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004657/en_IE?country=IE.
+21-01 21:41:06.901|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+21-01 21:41:07.151|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/OFB-EAST:109552155/en_IE?country=IE.
+21-01 21:41:07.649|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004662/en_IE?country=IE.
+21-01 21:41:08.143|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002694/en_IE?country=IE.
+21-01 21:41:08.377|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002015/en_IE?country=IE.
+21-01 21:41:08.640|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+21-01 21:41:08.895|DEBUG|OriginLibrary#OriginLibrary:Found 7 library EA games.
+21-01 21:41:08.895|DEBUG|OriginLibrary#OriginLibrary:Found 0 installed EA games.
+21-01 21:41:08.914|INFO |SteamLibrary#SteamLibrary:Steam game Proton EasyAntiCheat Runtime is not properly installed or it's a soundtrack, skipping.
+21-01 21:41:08.914|DEBUG|SteamLibrary#SteamLibrary:Found 10 installed Steam games.
+21-01 21:41:11.187|DEBUG|SteamLibrary#SteamLibrary:Found 88 library Steam games.
+21-01 21:41:11.193|DEBUG|UplayLibrary#UplayLibrary:Found 0 installed Ubisoft Connect games.
+21-01 21:41:11.470|DEBUG|UplayLibrary#UplayLibrary:Found 39 library Ubisoft Connect games.
+22-01 12:24:46.602|DEBUG|EpicLibrary#EpicLibrary:Found 1 installed Epic games.
+22-01 12:24:51.916|DEBUG|EpicLibrary#EpicLibrary:Found 158 library Epic games.
+22-01 12:24:51.956|DEBUG|GogLibrary#GogLibrary:Found 0 installed GOG games.
+22-01 12:24:54.912|DEBUG|GogLibrary#GogLibrary:Found 51 library GOG games.
+22-01 12:24:58.516|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004657/en_IE?country=IE.
+22-01 12:24:59.300|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+22-01 12:24:59.853|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/OFB-EAST:109552155/en_IE?country=IE.
+22-01 12:25:00.394|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004662/en_IE?country=IE.
+22-01 12:25:00.919|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002694/en_IE?country=IE.
+22-01 12:25:01.572|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002015/en_IE?country=IE.
+22-01 12:25:02.184|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+22-01 12:25:02.508|DEBUG|OriginLibrary#OriginLibrary:Found 7 library EA games.
+22-01 12:25:02.508|DEBUG|OriginLibrary#OriginLibrary:Found 0 installed EA games.
+22-01 12:25:02.588|INFO |SteamLibrary#SteamLibrary:Steam game Proton EasyAntiCheat Runtime is not properly installed or it's a soundtrack, skipping.
+22-01 12:25:02.617|DEBUG|SteamLibrary#SteamLibrary:Found 10 installed Steam games.
+22-01 12:25:03.430|DEBUG|SteamLibrary#SteamLibrary:Found 88 library Steam games.
+22-01 12:25:03.430|DEBUG|UplayLibrary#UplayLibrary:Found 0 installed Ubisoft Connect games.
+22-01 12:25:03.737|DEBUG|UplayLibrary#UplayLibrary:Found 39 library Ubisoft Connect games.
+22-01 14:18:51.776|DEBUG|EpicLibrary#EpicLibrary:Found 1 installed Epic games.
+22-01 14:18:56.341|DEBUG|EpicLibrary#EpicLibrary:Found 158 library Epic games.
+22-01 14:18:56.374|DEBUG|GogLibrary#GogLibrary:Found 0 installed GOG games.
+22-01 14:18:59.456|DEBUG|GogLibrary#GogLibrary:Found 51 library GOG games.
+22-01 14:19:02.945|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004657/en_IE?country=IE.
+22-01 14:19:03.622|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+22-01 14:19:04.550|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/OFB-EAST:109552155/en_IE?country=IE.
+22-01 14:19:05.007|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004662/en_IE?country=IE.
+22-01 14:19:05.457|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002694/en_IE?country=IE.
+22-01 14:19:05.941|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002015/en_IE?country=IE.
+22-01 14:19:06.411|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+22-01 14:19:06.631|DEBUG|OriginLibrary#OriginLibrary:Found 7 library EA games.
+22-01 14:19:06.631|DEBUG|OriginLibrary#OriginLibrary:Found 0 installed EA games.
+22-01 14:19:06.648|INFO |SteamLibrary#SteamLibrary:Steam game Proton EasyAntiCheat Runtime is not properly installed or it's a soundtrack, skipping.
+22-01 14:19:06.648|DEBUG|SteamLibrary#SteamLibrary:Found 10 installed Steam games.
+22-01 14:19:07.405|DEBUG|SteamLibrary#SteamLibrary:Found 88 library Steam games.
+22-01 14:19:07.411|DEBUG|UplayLibrary#UplayLibrary:Found 0 installed Ubisoft Connect games.
+22-01 14:19:07.694|DEBUG|UplayLibrary#UplayLibrary:Found 39 library Ubisoft Connect games.
+22-01 18:53:55.858|DEBUG|EpicLibrary#EpicLibrary:Found 1 installed Epic games.
+22-01 18:53:59.528|DEBUG|EpicLibrary#EpicLibrary:Found 158 library Epic games.
+22-01 18:53:59.560|DEBUG|GogLibrary#GogLibrary:Found 0 installed GOG games.
+22-01 18:54:04.565|DEBUG|GogLibrary#GogLibrary:Found 51 library GOG games.
+22-01 18:54:08.354|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004657/en_IE?country=IE.
+22-01 18:54:09.041|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+22-01 18:54:09.534|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/OFB-EAST:109552155/en_IE?country=IE.
+22-01 18:54:10.193|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004662/en_IE?country=IE.
+22-01 18:54:10.713|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002694/en_IE?country=IE.
+22-01 18:54:11.260|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002015/en_IE?country=IE.
+22-01 18:54:11.765|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+22-01 18:54:12.071|DEBUG|OriginLibrary#OriginLibrary:Found 7 library EA games.
+22-01 18:54:12.071|DEBUG|OriginLibrary#OriginLibrary:Found 0 installed EA games.
+22-01 18:54:12.101|INFO |SteamLibrary#SteamLibrary:Steam game Proton EasyAntiCheat Runtime is not properly installed or it's a soundtrack, skipping.
+22-01 18:54:12.101|DEBUG|SteamLibrary#SteamLibrary:Found 10 installed Steam games.
+22-01 18:54:12.912|DEBUG|SteamLibrary#SteamLibrary:Found 88 library Steam games.
+22-01 18:54:12.912|DEBUG|UplayLibrary#UplayLibrary:Found 0 installed Ubisoft Connect games.
+22-01 18:54:13.123|DEBUG|UplayLibrary#UplayLibrary:Found 39 library Ubisoft Connect games.
+23-01 15:16:09.725|DEBUG|EpicLibrary#EpicLibrary:Found 1 installed Epic games.
+23-01 15:16:17.177|DEBUG|EpicLibrary#EpicLibrary:Found 158 library Epic games.
+23-01 15:16:17.213|DEBUG|GogLibrary#GogLibrary:Found 0 installed GOG games.
+23-01 15:16:21.250|DEBUG|GogLibrary#GogLibrary:Found 51 library GOG games.
+23-01 15:16:25.227|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004657/en_IE?country=IE.
+23-01 15:16:25.836|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+23-01 15:16:26.347|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/OFB-EAST:109552155/en_IE?country=IE.
+23-01 15:16:26.884|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004662/en_IE?country=IE.
+23-01 15:16:27.365|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002694/en_IE?country=IE.
+23-01 15:16:27.899|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002015/en_IE?country=IE.
+23-01 15:16:28.440|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+23-01 15:16:28.707|DEBUG|OriginLibrary#OriginLibrary:Found 7 library EA games.
+23-01 15:16:28.711|DEBUG|OriginLibrary#OriginLibrary:Found 0 installed EA games.
+23-01 15:16:28.750|INFO |SteamLibrary#SteamLibrary:Steam game Proton EasyAntiCheat Runtime is not properly installed or it's a soundtrack, skipping.
+23-01 15:16:28.760|DEBUG|SteamLibrary#SteamLibrary:Found 10 installed Steam games.
+23-01 15:16:29.725|DEBUG|SteamLibrary#SteamLibrary:Found 88 library Steam games.
+23-01 15:16:29.725|DEBUG|UplayLibrary#UplayLibrary:Found 0 installed Ubisoft Connect games.
+23-01 15:16:29.977|DEBUG|UplayLibrary#UplayLibrary:Found 39 library Ubisoft Connect games.
+23-01 19:39:55.909|DEBUG|EpicLibrary#EpicLibrary:Found 1 installed Epic games.
+23-01 19:40:00.315|DEBUG|EpicLibrary#EpicLibrary:Found 158 library Epic games.
+23-01 19:40:00.344|DEBUG|GogLibrary#GogLibrary:Found 0 installed GOG games.
+23-01 19:40:02.858|DEBUG|GogLibrary#GogLibrary:Found 51 library GOG games.
+23-01 19:40:06.256|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004657/en_IE?country=IE.
+23-01 19:40:06.806|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+23-01 19:40:07.332|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/OFB-EAST:109552155/en_IE?country=IE.
+23-01 19:40:07.804|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004662/en_IE?country=IE.
+23-01 19:40:08.315|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002694/en_IE?country=IE.
+23-01 19:40:08.783|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002015/en_IE?country=IE.
+23-01 19:40:09.312|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+23-01 19:40:09.590|DEBUG|OriginLibrary#OriginLibrary:Found 7 library EA games.
+23-01 19:40:09.590|DEBUG|OriginLibrary#OriginLibrary:Found 0 installed EA games.
+23-01 19:40:09.607|INFO |SteamLibrary#SteamLibrary:Steam game Proton EasyAntiCheat Runtime is not properly installed or it's a soundtrack, skipping.
+23-01 19:40:09.607|DEBUG|SteamLibrary#SteamLibrary:Found 10 installed Steam games.
+23-01 19:40:11.683|DEBUG|SteamLibrary#SteamLibrary:Found 88 library Steam games.
+23-01 19:40:11.683|DEBUG|UplayLibrary#UplayLibrary:Found 0 installed Ubisoft Connect games.
+23-01 19:40:11.877|DEBUG|UplayLibrary#UplayLibrary:Found 39 library Ubisoft Connect games.
+24-01 11:30:15.306|DEBUG|EpicLibrary#EpicLibrary:Found 1 installed Epic games.
+24-01 11:30:22.261|DEBUG|EpicLibrary#EpicLibrary:Found 158 library Epic games.
+24-01 11:30:22.302|DEBUG|GogLibrary#GogLibrary:Found 1 installed GOG games.
+24-01 11:30:25.132|DEBUG|GogLibrary#GogLibrary:Found 51 library GOG games.
+24-01 11:30:28.577|DEBUG|OriginLibrary#OriginLibrary:Found 0 library EA games.
+24-01 11:30:28.577|DEBUG|OriginLibrary#OriginLibrary:Found 0 installed EA games.
+25-01 11:50:59.058|DEBUG|EpicLibrary#EpicLibrary:Found 1 installed Epic games.
+25-01 11:51:09.437|DEBUG|EpicLibrary#EpicLibrary:Found 158 library Epic games.
+25-01 11:51:09.480|DEBUG|GogLibrary#GogLibrary:Found 1 installed GOG games.
+25-01 11:51:12.433|DEBUG|GogLibrary#GogLibrary:Found 51 library GOG games.
+25-01 11:51:16.799|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004657/en_IE?country=IE.
+25-01 11:51:17.359|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+25-01 11:51:17.862|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/OFB-EAST:109552155/en_IE?country=IE.
+25-01 11:51:18.335|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004662/en_IE?country=IE.
+25-01 11:51:18.916|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002694/en_IE?country=IE.
+25-01 11:51:19.509|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002015/en_IE?country=IE.
+25-01 11:51:20.002|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+25-01 11:51:20.249|DEBUG|OriginLibrary#OriginLibrary:Found 7 library EA games.
+25-01 11:51:20.249|DEBUG|OriginLibrary#OriginLibrary:Found 0 installed EA games.
+25-01 11:51:20.347|INFO |SteamLibrary#SteamLibrary:Steam game Proton EasyAntiCheat Runtime is not properly installed or it's a soundtrack, skipping.
+25-01 11:51:20.361|DEBUG|SteamLibrary#SteamLibrary:Found 10 installed Steam games.
+25-01 11:51:21.107|DEBUG|SteamLibrary#SteamLibrary:Found 88 library Steam games.
+25-01 11:51:21.117|DEBUG|UplayLibrary#UplayLibrary:Found 0 installed Ubisoft Connect games.
+25-01 11:51:21.354|DEBUG|UplayLibrary#UplayLibrary:Found 39 library Ubisoft Connect games.
+25-01 13:03:26.114|DEBUG|EpicLibrary#EpicLibrary:Found 1 installed Epic games.
+25-01 13:03:31.715|DEBUG|EpicLibrary#EpicLibrary:Found 158 library Epic games.
+25-01 13:03:31.768|DEBUG|GogLibrary#GogLibrary:Found 1 installed GOG games.
+25-01 13:03:35.245|DEBUG|GogLibrary#GogLibrary:Found 51 library GOG games.
+25-01 21:53:28.176|DEBUG|EpicLibrary#EpicLibrary:Found 1 installed Epic games.
+25-01 21:53:34.763|DEBUG|EpicLibrary#EpicLibrary:Found 158 library Epic games.
+25-01 21:53:34.804|DEBUG|GogLibrary#GogLibrary:Found 1 installed GOG games.
+25-01 21:53:37.974|DEBUG|GogLibrary#GogLibrary:Found 51 library GOG games.
+25-01 21:53:41.551|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004657/en_IE?country=IE.
+25-01 21:53:42.122|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+25-01 21:53:42.588|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/OFB-EAST:109552155/en_IE?country=IE.
+25-01 21:53:43.089|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004662/en_IE?country=IE.
+25-01 21:53:43.530|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002694/en_IE?country=IE.
+25-01 21:53:44.037|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002015/en_IE?country=IE.
+25-01 21:53:44.502|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+25-01 21:53:44.774|DEBUG|OriginLibrary#OriginLibrary:Found 7 library EA games.
+25-01 21:53:44.774|DEBUG|OriginLibrary#OriginLibrary:Found 0 installed EA games.
+25-01 21:53:44.804|INFO |SteamLibrary#SteamLibrary:Steam game Proton EasyAntiCheat Runtime is not properly installed or it's a soundtrack, skipping.
+25-01 21:53:44.804|DEBUG|SteamLibrary#SteamLibrary:Found 10 installed Steam games.
+25-01 21:53:45.643|DEBUG|SteamLibrary#SteamLibrary:Found 88 library Steam games.
+25-01 21:53:45.647|DEBUG|UplayLibrary#UplayLibrary:Found 0 installed Ubisoft Connect games.
+25-01 21:53:45.880|DEBUG|UplayLibrary#UplayLibrary:Found 39 library Ubisoft Connect games.
+26-01 08:15:08.371|DEBUG|EpicLibrary#EpicLibrary:Found 1 installed Epic games.
+26-01 08:15:13.697|DEBUG|EpicLibrary#EpicLibrary:Found 0 library Epic games.
+26-01 15:12:34.097|DEBUG|EpicLibrary#EpicLibrary:Found 1 installed Epic games.
+26-01 15:12:38.571|DEBUG|EpicLibrary#EpicLibrary:Found 158 library Epic games.
+26-01 15:12:38.711|DEBUG|GogLibrary#GogLibrary:Found 1 installed GOG games.
+26-01 15:12:42.336|DEBUG|GogLibrary#GogLibrary:Found 54 library GOG games.
+27-01 12:31:11.989|DEBUG|EpicLibrary#EpicLibrary:Found 1 installed Epic games.
+27-01 12:31:23.501|DEBUG|EpicLibrary#EpicLibrary:Found 158 library Epic games.
+27-01 12:31:23.583|DEBUG|GogLibrary#GogLibrary:Found 1 installed GOG games.
+27-01 12:31:27.168|DEBUG|GogLibrary#GogLibrary:Found 54 library GOG games.
+27-01 12:31:30.442|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004657/en_IE?country=IE.
+27-01 12:31:31.012|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+27-01 12:31:31.558|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/OFB-EAST:109552155/en_IE?country=IE.
+27-01 12:31:32.106|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004662/en_IE?country=IE.
+27-01 12:31:32.590|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002694/en_IE?country=IE.
+27-01 12:31:33.123|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002015/en_IE?country=IE.
+27-01 12:31:33.618|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+27-01 12:31:33.863|DEBUG|OriginLibrary#OriginLibrary:Found 7 library EA games.
+27-01 12:31:33.863|DEBUG|OriginLibrary#OriginLibrary:Found 0 installed EA games.
+27-01 12:31:34.009|INFO |SteamLibrary#SteamLibrary:Steam game Proton EasyAntiCheat Runtime is not properly installed or it's a soundtrack, skipping.
+27-01 12:31:34.045|DEBUG|SteamLibrary#SteamLibrary:Found 9 installed Steam games.
+27-01 12:31:35.068|DEBUG|SteamLibrary#SteamLibrary:Found 88 library Steam games.
+27-01 12:31:35.080|DEBUG|UplayLibrary#UplayLibrary:Found 0 installed Ubisoft Connect games.
+27-01 12:31:35.312|DEBUG|UplayLibrary#UplayLibrary:Found 39 library Ubisoft Connect games.
+27-01 12:48:03.754|DEBUG|EpicLibrary#EpicLibrary:Found 1 installed Epic games.
+27-01 12:48:06.930|DEBUG|EpicLibrary#EpicLibrary:Found 158 library Epic games.
+27-01 12:48:06.997|DEBUG|GogLibrary#GogLibrary:Found 1 installed GOG games.
+27-01 12:48:09.611|DEBUG|GogLibrary#GogLibrary:Found 54 library GOG games.
+27-01 12:48:13.135|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004657/en_IE?country=IE.
+27-01 12:48:15.581|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+27-01 12:48:16.114|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/OFB-EAST:109552155/en_IE?country=IE.
+27-01 12:48:16.653|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004662/en_IE?country=IE.
+27-01 12:48:17.178|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002694/en_IE?country=IE.
+27-01 12:48:17.709|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002015/en_IE?country=IE.
+27-01 12:48:19.996|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+27-01 12:48:20.285|DEBUG|OriginLibrary#OriginLibrary:Found 7 library EA games.
+27-01 12:48:20.285|DEBUG|OriginLibrary#OriginLibrary:Found 0 installed EA games.
+27-01 12:48:20.336|INFO |SteamLibrary#SteamLibrary:Steam game Proton EasyAntiCheat Runtime is not properly installed or it's a soundtrack, skipping.
+27-01 12:48:20.349|DEBUG|SteamLibrary#SteamLibrary:Found 9 installed Steam games.
+27-01 12:48:21.349|DEBUG|SteamLibrary#SteamLibrary:Found 88 library Steam games.
+27-01 12:48:21.349|DEBUG|UplayLibrary#UplayLibrary:Found 0 installed Ubisoft Connect games.
+27-01 12:48:21.644|DEBUG|UplayLibrary#UplayLibrary:Found 39 library Ubisoft Connect games.
+28-01 12:55:05.100|DEBUG|EpicLibrary#EpicLibrary:Found 1 installed Epic games.
+28-01 12:55:10.355|DEBUG|EpicLibrary#EpicLibrary:Found 0 library Epic games.
+29-01 09:51:26.352|DEBUG|EpicLibrary#EpicLibrary:Found 1 installed Epic games.
+29-01 09:51:33.316|DEBUG|EpicLibrary#EpicLibrary:Found 158 library Epic games.
+29-01 09:51:33.392|DEBUG|GogLibrary#GogLibrary:Found 1 installed GOG games.
+29-01 09:51:36.698|DEBUG|GogLibrary#GogLibrary:Found 54 library GOG games.
+29-01 09:52:03.324|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004657/en_IE?country=IE.
+29-01 09:52:04.248|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+29-01 09:52:04.932|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/OFB-EAST:109552155/en_IE?country=IE.
+29-01 09:52:05.528|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004662/en_IE?country=IE.
+29-01 09:52:06.068|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002694/en_IE?country=IE.
+29-01 09:52:06.702|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002015/en_IE?country=IE.
+29-01 09:52:07.364|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+29-01 09:52:07.690|DEBUG|OriginLibrary#OriginLibrary:Found 7 library EA games.
+29-01 09:52:07.690|DEBUG|OriginLibrary#OriginLibrary:Found 0 installed EA games.
+29-01 09:52:07.845|INFO |SteamLibrary#SteamLibrary:Steam game Proton EasyAntiCheat Runtime is not properly installed or it's a soundtrack, skipping.
+29-01 09:52:07.873|DEBUG|SteamLibrary#SteamLibrary:Found 9 installed Steam games.
+29-01 09:52:08.763|DEBUG|SteamLibrary#SteamLibrary:Found 88 library Steam games.
+29-01 09:52:08.765|DEBUG|UplayLibrary#UplayLibrary:Found 0 installed Ubisoft Connect games.
+29-01 09:52:09.248|DEBUG|UplayLibrary#UplayLibrary:Found 39 library Ubisoft Connect games.
+29-01 17:04:39.425|DEBUG|EpicLibrary#EpicLibrary:Found 1 installed Epic games.
+29-01 17:04:43.589|DEBUG|EpicLibrary#EpicLibrary:Found 158 library Epic games.
+29-01 17:04:43.686|DEBUG|GogLibrary#GogLibrary:Found 1 installed GOG games.
+29-01 17:04:47.455|DEBUG|GogLibrary#GogLibrary:Found 54 library GOG games.
+30-01 09:17:31.053|DEBUG|EpicLibrary#EpicLibrary:Found 1 installed Epic games.
+30-01 09:17:38.890|DEBUG|EpicLibrary#EpicLibrary:Found 158 library Epic games.
+30-01 09:17:38.945|DEBUG|GogLibrary#GogLibrary:Found 1 installed GOG games.
+30-01 09:17:45.905|DEBUG|GogLibrary#GogLibrary:Found 54 library GOG games.
+30-01 09:17:49.190|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004657/en_IE?country=IE.
+30-01 09:17:49.906|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+30-01 09:17:50.368|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/OFB-EAST:109552155/en_IE?country=IE.
+30-01 09:17:50.826|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004662/en_IE?country=IE.
+30-01 09:17:51.330|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002694/en_IE?country=IE.
+30-01 09:17:51.799|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002015/en_IE?country=IE.
+30-01 09:17:52.295|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+30-01 09:17:52.541|DEBUG|OriginLibrary#OriginLibrary:Found 7 library EA games.
+30-01 09:17:52.541|DEBUG|OriginLibrary#OriginLibrary:Found 0 installed EA games.
+30-01 09:17:52.725|INFO |SteamLibrary#SteamLibrary:Steam game Proton EasyAntiCheat Runtime is not properly installed or it's a soundtrack, skipping.
+30-01 09:17:52.773|DEBUG|SteamLibrary#SteamLibrary:Found 9 installed Steam games.
+30-01 09:17:53.607|DEBUG|SteamLibrary#SteamLibrary:Found 88 library Steam games.
+30-01 09:17:53.617|DEBUG|UplayLibrary#UplayLibrary:Found 0 installed Ubisoft Connect games.
+30-01 09:17:53.931|DEBUG|UplayLibrary#UplayLibrary:Found 39 library Ubisoft Connect games.
+30-01 18:41:10.226|DEBUG|EpicLibrary#EpicLibrary:Found 0 installed Epic games.
+30-01 18:41:17.551|DEBUG|EpicLibrary#EpicLibrary:Found 158 library Epic games.
+30-01 18:41:17.625|DEBUG|GogLibrary#GogLibrary:Found 0 installed GOG games.
+30-01 18:41:20.803|DEBUG|GogLibrary#GogLibrary:Found 54 library GOG games.
+30-01 18:41:24.452|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004657/en_IE?country=IE.
+30-01 18:41:25.242|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+30-01 18:41:26.715|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/OFB-EAST:109552155/en_IE?country=IE.
+30-01 18:41:27.351|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004662/en_IE?country=IE.
+30-01 18:41:30.270|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002694/en_IE?country=IE.
+30-01 18:41:30.944|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002015/en_IE?country=IE.
+30-01 18:41:31.707|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+30-01 18:41:32.047|DEBUG|OriginLibrary#OriginLibrary:Found 7 library EA games.
+30-01 18:41:32.047|DEBUG|OriginLibrary#OriginLibrary:Found 0 installed EA games.
+30-01 18:41:32.071|ERROR|SteamLibrary#SteamLibrary:Failed to import installed Steam games.
+System.Exception: Steam installation not found.
+   at SteamLibrary.SteamLibrary.GetInstalledGames(Boolean includeMods) in C:\Devel\PlayniteExtensions\source\Libraries\SteamLibrary\SteamLibrary.cs:line 248
+   at SteamLibrary.SteamLibrary.GetGames(LibraryGetGamesArgs args) in C:\Devel\PlayniteExtensions\source\Libraries\SteamLibrary\SteamLibrary.cs:line 795
+30-01 18:41:33.503|DEBUG|SteamLibrary#SteamLibrary:Found 88 library Steam games.
+30-01 18:41:33.507|DEBUG|UplayLibrary#UplayLibrary:Found 0 installed Ubisoft Connect games.
+30-01 18:41:33.539|ERROR|UplayLibrary#UplayLibrary:Failed to import uninstalled Ubisoft Connect games.
+System.IO.FileNotFoundException: Ubisoft Connect client was not initialized, please start the client at least once to generate user library data.
+   at UplayLibrary.Uplay.GetLocalProductCache() in C:\Devel\PlayniteExtensions\source\Libraries\UplayLibrary\Uplay.cs:line 103
+   at UplayLibrary.UplayLibrary.GetLibraryGames() in C:\Devel\PlayniteExtensions\source\Libraries\UplayLibrary\UplayLibrary.cs:line 35
+   at UplayLibrary.UplayLibrary.GetGames(LibraryGetGamesArgs args) in C:\Devel\PlayniteExtensions\source\Libraries\UplayLibrary\UplayLibrary.cs:line 146
+31-01 15:16:44.715|DEBUG|EpicLibrary#EpicLibrary:Found 0 installed Epic games.
+31-01 15:16:54.792|DEBUG|EpicLibrary#EpicLibrary:Found 158 library Epic games.
+31-01 15:16:54.804|DEBUG|GogLibrary#GogLibrary:Found 0 installed GOG games.
+31-01 15:16:57.785|DEBUG|GogLibrary#GogLibrary:Found 54 library GOG games.
+31-01 15:17:01.598|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004657/en_IE?country=IE.
+31-01 15:17:02.373|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+31-01 15:17:02.899|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/OFB-EAST:109552155/en_IE?country=IE.
+31-01 15:17:03.406|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004662/en_IE?country=IE.
+31-01 15:17:04.022|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002694/en_IE?country=IE.
+31-01 15:17:04.553|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002015/en_IE?country=IE.
+31-01 15:17:06.999|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+31-01 15:17:07.305|DEBUG|OriginLibrary#OriginLibrary:Found 7 library EA games.
+31-01 15:17:07.305|DEBUG|OriginLibrary#OriginLibrary:Found 0 installed EA games.
+31-01 15:17:07.335|ERROR|SteamLibrary#SteamLibrary:Failed to import installed Steam games.
+System.Exception: Steam installation not found.
+   at SteamLibrary.SteamLibrary.GetInstalledGames(Boolean includeMods) in C:\Devel\PlayniteExtensions\source\Libraries\SteamLibrary\SteamLibrary.cs:line 248
+   at SteamLibrary.SteamLibrary.GetGames(LibraryGetGamesArgs args) in C:\Devel\PlayniteExtensions\source\Libraries\SteamLibrary\SteamLibrary.cs:line 795
+31-01 15:17:08.661|DEBUG|SteamLibrary#SteamLibrary:Found 88 library Steam games.
+31-01 15:17:08.663|DEBUG|UplayLibrary#UplayLibrary:Found 0 installed Ubisoft Connect games.
+31-01 15:17:08.693|ERROR|UplayLibrary#UplayLibrary:Failed to import uninstalled Ubisoft Connect games.
+System.IO.FileNotFoundException: Ubisoft Connect client was not initialized, please start the client at least once to generate user library data.
+   at UplayLibrary.Uplay.GetLocalProductCache() in C:\Devel\PlayniteExtensions\source\Libraries\UplayLibrary\Uplay.cs:line 103
+   at UplayLibrary.UplayLibrary.GetLibraryGames() in C:\Devel\PlayniteExtensions\source\Libraries\UplayLibrary\UplayLibrary.cs:line 35
+   at UplayLibrary.UplayLibrary.GetGames(LibraryGetGamesArgs args) in C:\Devel\PlayniteExtensions\source\Libraries\UplayLibrary\UplayLibrary.cs:line 146
+02-02 16:29:29.110|DEBUG|EpicLibrary#EpicLibrary:Found 0 installed Epic games.
+02-02 16:29:45.580|DEBUG|EpicLibrary#EpicLibrary:Found 158 library Epic games.
+02-02 16:29:45.626|DEBUG|GogLibrary#GogLibrary:Found 0 installed GOG games.
+02-02 16:29:49.399|DEBUG|GogLibrary#GogLibrary:Found 54 library GOG games.
+02-02 16:29:53.476|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004657/en_IE?country=IE.
+02-02 16:29:55.265|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+02-02 16:29:55.838|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/OFB-EAST:109552155/en_IE?country=IE.
+02-02 16:29:56.405|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004662/en_IE?country=IE.
+02-02 16:29:56.953|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002694/en_IE?country=IE.
+02-02 16:29:57.493|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002015/en_IE?country=IE.
+02-02 16:29:58.032|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+02-02 16:29:58.322|DEBUG|OriginLibrary#OriginLibrary:Found 7 library EA games.
+02-02 16:29:58.322|DEBUG|OriginLibrary#OriginLibrary:Found 0 installed EA games.
+02-02 16:29:58.413|ERROR|SteamLibrary#SteamLibrary:Failed to import installed Steam games.
+System.Exception: Steam installation not found.
+   at SteamLibrary.SteamLibrary.GetInstalledGames(Boolean includeMods) in C:\Devel\PlayniteExtensions\source\Libraries\SteamLibrary\SteamLibrary.cs:line 248
+   at SteamLibrary.SteamLibrary.GetGames(LibraryGetGamesArgs args) in C:\Devel\PlayniteExtensions\source\Libraries\SteamLibrary\SteamLibrary.cs:line 795
+02-02 16:29:59.648|DEBUG|SteamLibrary#SteamLibrary:Found 88 library Steam games.
+02-02 16:29:59.648|DEBUG|UplayLibrary#UplayLibrary:Found 0 installed Ubisoft Connect games.
+02-02 16:29:59.693|ERROR|UplayLibrary#UplayLibrary:Failed to import uninstalled Ubisoft Connect games.
+System.IO.FileNotFoundException: Ubisoft Connect client was not initialized, please start the client at least once to generate user library data.
+   at UplayLibrary.Uplay.GetLocalProductCache() in C:\Devel\PlayniteExtensions\source\Libraries\UplayLibrary\Uplay.cs:line 103
+   at UplayLibrary.UplayLibrary.GetLibraryGames() in C:\Devel\PlayniteExtensions\source\Libraries\UplayLibrary\UplayLibrary.cs:line 35
+   at UplayLibrary.UplayLibrary.GetGames(LibraryGetGamesArgs args) in C:\Devel\PlayniteExtensions\source\Libraries\UplayLibrary\UplayLibrary.cs:line 146
+03-02 04:15:45.758|DEBUG|EpicLibrary#EpicLibrary:Found 0 installed Epic games.
+03-02 04:15:55.070|DEBUG|EpicLibrary#EpicLibrary:Found 158 library Epic games.
+03-02 04:15:55.095|DEBUG|GogLibrary#GogLibrary:Found 0 installed GOG games.
+03-02 04:15:58.588|DEBUG|GogLibrary#GogLibrary:Found 54 library GOG games.
+04-02 03:49:14.428|DEBUG|EpicLibrary#EpicLibrary:Found 0 installed Epic games.
+04-02 03:49:28.942|DEBUG|EpicLibrary#EpicLibrary:Found 159 library Epic games.
+04-02 03:49:29.045|DEBUG|GogLibrary#GogLibrary:Found 0 installed GOG games.
+04-02 03:49:35.257|DEBUG|GogLibrary#GogLibrary:Found 55 library GOG games.
+04-02 03:49:38.463|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004657/en_IE?country=IE.
+04-02 03:49:39.167|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+04-02 03:49:39.676|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/OFB-EAST:109552155/en_IE?country=IE.
+04-02 03:49:40.236|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004662/en_IE?country=IE.
+04-02 03:49:40.742|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002694/en_IE?country=IE.
+04-02 03:49:41.282|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002015/en_IE?country=IE.
+04-02 03:49:41.775|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+04-02 03:49:42.026|DEBUG|OriginLibrary#OriginLibrary:Found 7 library EA games.
+04-02 03:49:42.034|DEBUG|OriginLibrary#OriginLibrary:Found 0 installed EA games.
+04-02 03:49:42.070|ERROR|SteamLibrary#SteamLibrary:Failed to import installed Steam games.
+System.Exception: Steam installation not found.
+   at SteamLibrary.SteamLibrary.GetInstalledGames(Boolean includeMods) in C:\Devel\PlayniteExtensions\source\Libraries\SteamLibrary\SteamLibrary.cs:line 248
+   at SteamLibrary.SteamLibrary.GetGames(LibraryGetGamesArgs args) in C:\Devel\PlayniteExtensions\source\Libraries\SteamLibrary\SteamLibrary.cs:line 795
+04-02 03:49:43.565|DEBUG|SteamLibrary#SteamLibrary:Found 88 library Steam games.
+04-02 03:49:43.585|DEBUG|UplayLibrary#UplayLibrary:Found 0 installed Ubisoft Connect games.
+04-02 03:49:43.625|ERROR|UplayLibrary#UplayLibrary:Failed to import uninstalled Ubisoft Connect games.
+System.IO.FileNotFoundException: Ubisoft Connect client was not initialized, please start the client at least once to generate user library data.
+   at UplayLibrary.Uplay.GetLocalProductCache() in C:\Devel\PlayniteExtensions\source\Libraries\UplayLibrary\Uplay.cs:line 103
+   at UplayLibrary.UplayLibrary.GetLibraryGames() in C:\Devel\PlayniteExtensions\source\Libraries\UplayLibrary\UplayLibrary.cs:line 35
+   at UplayLibrary.UplayLibrary.GetGames(LibraryGetGamesArgs args) in C:\Devel\PlayniteExtensions\source\Libraries\UplayLibrary\UplayLibrary.cs:line 146
+04-02 03:49:45.232|ERROR|UplayLibrary#UplayMetadataProvider:Failed to get Ubisoft Connect product info from cache.
+System.IO.FileNotFoundException: Ubisoft Connect client was not initialized, please start the client at least once to generate user library data.
+   at UplayLibrary.Uplay.GetLocalProductCache() in C:\Devel\PlayniteExtensions\source\Libraries\UplayLibrary\Uplay.cs:line 103
+   at UplayLibrary.UplayMetadataProvider..ctor() in C:\Devel\PlayniteExtensions\source\Libraries\UplayLibrary\UplayMetadataProvider.cs:line 22
+04-02 03:49:46.907|DEBUG|GogLibrary#Downloader:Downloading string content from http://api.gog.com/products/1435828767?expand=description&locale=en using cookies and System.Text.UTF8Encoding encoding.
+04-02 03:49:47.772|DEBUG|GogLibrary#Downloader:Downloading string content from https://www.gog.com/en/game/the_elder_scrolls_iii_morrowind_goty_edition_game using cookies and System.Text.UTF8Encoding encoding.
+04-02 03:49:49.049|WARN |GogLibrary#GogMetadataProvider:Failed to get store data from page, no data found. https://www.gog.com/en/game/the_elder_scrolls_iii_morrowind_goty_edition_game
+04-02 11:48:23.293|DEBUG|EpicLibrary#EpicLibrary:Found 0 installed Epic games.
+04-02 11:48:27.431|DEBUG|EpicLibrary#EpicLibrary:Found 0 library Epic games.
+04-02 16:35:18.121|DEBUG|EpicLibrary#EpicLibrary:Found 0 installed Epic games.
+04-02 16:35:22.594|DEBUG|EpicLibrary#EpicLibrary:Found 159 library Epic games.
+04-02 16:35:22.625|DEBUG|GogLibrary#GogLibrary:Found 0 installed GOG games.
+04-02 16:35:25.673|DEBUG|GogLibrary#GogLibrary:Found 55 library GOG games.
+04-02 16:35:29.197|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004657/en_IE?country=IE.
+04-02 16:35:29.756|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+04-02 16:35:30.236|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/OFB-EAST:109552155/en_IE?country=IE.
+04-02 16:35:30.843|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004662/en_IE?country=IE.
+04-02 16:35:31.318|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002694/en_IE?country=IE.
+04-02 16:35:31.855|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002015/en_IE?country=IE.
+04-02 16:35:32.364|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+04-02 16:35:32.602|DEBUG|OriginLibrary#OriginLibrary:Found 7 library EA games.
+04-02 16:35:32.612|DEBUG|OriginLibrary#OriginLibrary:Found 0 installed EA games.
+04-02 16:35:32.621|ERROR|SteamLibrary#SteamLibrary:Failed to import installed Steam games.
+System.Exception: Steam installation not found.
+   at SteamLibrary.SteamLibrary.GetInstalledGames(Boolean includeMods) in C:\Devel\PlayniteExtensions\source\Libraries\SteamLibrary\SteamLibrary.cs:line 248
+   at SteamLibrary.SteamLibrary.GetGames(LibraryGetGamesArgs args) in C:\Devel\PlayniteExtensions\source\Libraries\SteamLibrary\SteamLibrary.cs:line 795
+04-02 16:35:33.443|DEBUG|SteamLibrary#SteamLibrary:Found 88 library Steam games.
+04-02 16:35:33.450|DEBUG|UplayLibrary#UplayLibrary:Found 0 installed Ubisoft Connect games.
+04-02 16:35:33.474|ERROR|UplayLibrary#UplayLibrary:Failed to import uninstalled Ubisoft Connect games.
+System.IO.FileNotFoundException: Ubisoft Connect client was not initialized, please start the client at least once to generate user library data.
+   at UplayLibrary.Uplay.GetLocalProductCache() in C:\Devel\PlayniteExtensions\source\Libraries\UplayLibrary\Uplay.cs:line 103
+   at UplayLibrary.UplayLibrary.GetLibraryGames() in C:\Devel\PlayniteExtensions\source\Libraries\UplayLibrary\UplayLibrary.cs:line 35
+   at UplayLibrary.UplayLibrary.GetGames(LibraryGetGamesArgs args) in C:\Devel\PlayniteExtensions\source\Libraries\UplayLibrary\UplayLibrary.cs:line 146
+04-02 12:53:37.358|DEBUG|EpicLibrary#EpicLibrary:Found 0 installed Epic games.
+04-02 12:53:44.907|DEBUG|EpicLibrary#EpicLibrary:Found 159 library Epic games.
+05-02 09:38:11.461|DEBUG|EpicLibrary#EpicLibrary:Found 0 installed Epic games.
+05-02 09:38:20.136|DEBUG|EpicLibrary#EpicLibrary:Found 159 library Epic games.
+05-02 09:38:20.171|DEBUG|GogLibrary#GogLibrary:Found 0 installed GOG games.
+05-02 09:38:24.179|DEBUG|GogLibrary#GogLibrary:Found 55 library GOG games.
+05-02 05:29:17.835|DEBUG|EpicLibrary#EpicLibrary:Found 0 installed Epic games.
+05-02 05:29:22.900|DEBUG|EpicLibrary#EpicLibrary:Found 159 library Epic games.
+05-02 05:29:22.925|DEBUG|GogLibrary#GogLibrary:Found 0 installed GOG games.
+05-02 05:29:26.702|DEBUG|GogLibrary#GogLibrary:Found 55 library GOG games.
+05-02 05:29:30.962|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004657/en_IE?country=IE.
+05-02 05:29:31.802|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+05-02 05:29:32.327|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/OFB-EAST:109552155/en_IE?country=IE.
+05-02 05:29:32.871|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004662/en_IE?country=IE.
+05-02 05:29:33.404|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002694/en_IE?country=IE.
+05-02 05:29:33.925|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002015/en_IE?country=IE.
+05-02 05:29:34.461|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+05-02 05:29:34.735|DEBUG|OriginLibrary#OriginLibrary:Found 7 library EA games.
+05-02 05:29:34.741|DEBUG|OriginLibrary#OriginLibrary:Found 0 installed EA games.
+05-02 05:29:34.757|ERROR|SteamLibrary#SteamLibrary:Failed to import installed Steam games.
+System.Exception: Steam installation not found.
+   at SteamLibrary.SteamLibrary.GetInstalledGames(Boolean includeMods) in C:\Devel\PlayniteExtensions\source\Libraries\SteamLibrary\SteamLibrary.cs:line 248
+   at SteamLibrary.SteamLibrary.GetGames(LibraryGetGamesArgs args) in C:\Devel\PlayniteExtensions\source\Libraries\SteamLibrary\SteamLibrary.cs:line 795
+05-02 05:29:35.776|DEBUG|SteamLibrary#SteamLibrary:Found 88 library Steam games.
+05-02 05:29:35.788|DEBUG|UplayLibrary#UplayLibrary:Found 0 installed Ubisoft Connect games.
+05-02 05:29:35.813|ERROR|UplayLibrary#UplayLibrary:Failed to import uninstalled Ubisoft Connect games.
+System.IO.FileNotFoundException: Ubisoft Connect client was not initialized, please start the client at least once to generate user library data.
+   at UplayLibrary.Uplay.GetLocalProductCache() in C:\Devel\PlayniteExtensions\source\Libraries\UplayLibrary\Uplay.cs:line 103
+   at UplayLibrary.UplayLibrary.GetLibraryGames() in C:\Devel\PlayniteExtensions\source\Libraries\UplayLibrary\UplayLibrary.cs:line 35
+   at UplayLibrary.UplayLibrary.GetGames(LibraryGetGamesArgs args) in C:\Devel\PlayniteExtensions\source\Libraries\UplayLibrary\UplayLibrary.cs:line 146
+05-02 05:39:21.679|DEBUG|EpicLibrary#EpicLibrary:Found 0 installed Epic games.
+05-02 05:39:26.540|DEBUG|EpicLibrary#EpicLibrary:Found 159 library Epic games.
+05-02 05:39:26.564|DEBUG|GogLibrary#GogLibrary:Found 0 installed GOG games.
+05-02 05:39:29.880|DEBUG|GogLibrary#GogLibrary:Found 55 library GOG games.
+05-02 05:39:33.649|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004657/en_IE?country=IE.
+05-02 05:39:34.185|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+05-02 05:39:34.662|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/OFB-EAST:109552155/en_IE?country=IE.
+05-02 05:39:35.691|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0004662/en_IE?country=IE.
+05-02 05:39:36.327|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002694/en_IE?country=IE.
+05-02 05:39:36.997|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0002015/en_IE?country=IE.
+05-02 05:39:37.440|DEBUG|OriginLibrary#Downloader:Downloading data from https://api2.origin.com/ecommerce2/public/supercat/Origin.OFR.50.0003112/en_IE?country=IE.
+05-02 05:39:37.679|DEBUG|OriginLibrary#OriginLibrary:Found 7 library EA games.
+05-02 05:39:37.679|DEBUG|OriginLibrary#OriginLibrary:Found 0 installed EA games.
+05-02 05:39:37.697|ERROR|SteamLibrary#SteamLibrary:Failed to import installed Steam games.
+System.Exception: Steam installation not found.
+   at SteamLibrary.SteamLibrary.GetInstalledGames(Boolean includeMods) in C:\Devel\PlayniteExtensions\source\Libraries\SteamLibrary\SteamLibrary.cs:line 248
+   at SteamLibrary.SteamLibrary.GetGames(LibraryGetGamesArgs args) in C:\Devel\PlayniteExtensions\source\Libraries\SteamLibrary\SteamLibrary.cs:line 795
+05-02 05:39:38.551|DEBUG|SteamLibrary#SteamLibrary:Found 88 library Steam games.
+05-02 05:39:38.554|DEBUG|UplayLibrary#UplayLibrary:Found 0 installed Ubisoft Connect games.
+05-02 05:39:38.592|ERROR|UplayLibrary#UplayLibrary:Failed to import uninstalled Ubisoft Connect games.
+System.IO.FileNotFoundException: Ubisoft Connect client was not initialized, please start the client at least once to generate user library data.
+   at UplayLibrary.Uplay.GetLocalProductCache() in C:\Devel\PlayniteExtensions\source\Libraries\UplayLibrary\Uplay.cs:line 103
+   at UplayLibrary.UplayLibrary.GetLibraryGames() in C:\Devel\PlayniteExtensions\source\Libraries\UplayLibrary\UplayLibrary.cs:line 35
+   at UplayLibrary.UplayLibrary.GetGames(LibraryGetGamesArgs args) in C:\Devel\PlayniteExtensions\source\Libraries\UplayLibrary\UplayLibrary.cs:line 146

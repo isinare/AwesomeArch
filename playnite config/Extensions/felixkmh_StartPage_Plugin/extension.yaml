@@ -1,0 +1,14 @@
+﻿Id: felixkmh_StartPage_Plugin
+Name: StartPage
+Author: felixkmh
+Version: 2.12.0
+Module: StartPagePlugin.dll
+Type: GenericPlugin
+Icon: icon.png
+Links:
+  - Name: GitHub
+    Url: https://github.com/felixkmh/StartPage-for-Playnite
+  - Name: Playnite Forum
+    Url: https://playnite.link/forum/thread-930-post-6631.html
+  - Name: Translate
+    Url: https://crowdin.com/project/startpage-for-playnite

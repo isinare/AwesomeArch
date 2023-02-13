@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "ImportInstalledGames": true,
+  "ConnectAccount": true,
+  "ImportUninstalledGames": true,
+  "UserId": "76561199064945500",
+  "IncludeFreeSubGames": false,
+  "ShowFriendsButton": true,
+  "IsPrivateAccount": false,
+  "ApiKey": "",
+  "IgnoreOtherInstalled": true,
+  "AdditionalAccounts": [],
+  "ShowSteamLaunchMenuInDesktopMode": true,
+  "ShowSteamLaunchMenuInFullscreenMode": false,
+  "LimitTagsToFixedAmount": false,
+  "FixedTagCount": 5,
+  "UseTagPrefix": false,
+  "TagPrefix": "",
+  "LanguageKey": "english",
+  "DownloadVerticalCovers": true,
+  "BackgroundSource": 0,
+  "BlacklistedTags": []
+}

@@ -1,0 +1,152 @@
+﻿<?xml version="1.0"?>
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:sys="clr-namespace:System;assembly=mscorlib">
+
+    <sys:String x:Key="LOC_SPG_MostPlayedGame">Más jugados</sys:String>
+    <sys:String x:Key="LOC_SPG_LatestReleaseGame">Último lanzamiento</sys:String>
+    <sys:String x:Key="LOC_SPG_RecentAchievements">Logros recientes</sys:String>
+    <sys:String x:Key="LOC_SPG_RecentlyAddedGames">Añadidos recientemente</sys:String>
+
+    <sys:String x:Key="LOC_SPG_DailyPlaytime">Tiempo de juego diario</sys:String>
+    <sys:String x:Key="LOC_SPG_WeeklyPlaytime">Tiempo de juego semanal</sys:String>
+    <sys:String x:Key="LOC_SPG_MonthlyPlaytime">Tiempo de juego mensual</sys:String>
+    <sys:String x:Key="LOC_SPG_PlaytimePerSource">Tiempo de juego por fuente</sys:String>
+    <sys:String x:Key="LOC_SPG_MostPlayedWeekly">Más jugados esta semana</sys:String>
+    <sys:String x:Key="LOC_SPG_TotalPlaytime" xml:space="preserve">Total: </sys:String>
+    <sys:String x:Key="LOC_SPG_LastSevenDays">Últimos 7 días</sys:String>
+    <sys:String x:Key="LOC_SPG_LastThirtyDays">Últimos 30 días</sys:String>
+    <sys:String x:Key="LOC_SPG_TimeframeNone">Ninguno</sys:String>
+
+    <sys:String x:Key="LOC_SPG_SetGameAsBackground">Establecer como fondo de StartPage</sys:String>
+
+    <!-- Timeframes -->
+    <sys:String x:Key="LOC_SPG_TimeframeLastDay">Últimas 24 horas</sys:String>
+    <sys:String x:Key="LOC_SPG_TimeframeLast7Days">Última semana</sys:String>
+    <sys:String x:Key="LOC_SPG_TimeframeLast14Days">Últimas 2 semanas</sys:String>
+    <sys:String x:Key="LOC_SPG_TimeframeLast21Days">Últimas 3 semanas</sys:String>
+    <sys:String x:Key="LOC_SPG_TimeframeLastMonth">Último mes</sys:String>
+    <sys:String x:Key="LOC_SPG_TimeframeLast3Months">Últimos 3 meses</sys:String>
+    <sys:String x:Key="LOC_SPG_TimeframeLast6Months">Últimos 6 meses</sys:String>
+    <sys:String x:Key="LOC_SPG_TimeframeLastYear">Último año</sys:String>
+    <sys:String x:Key="LOC_SPG_TimeframeLast5Years">Últimos 5 años</sys:String>
+    <sys:String x:Key="LOC_SPG_TimeframeAllTime">Siempre</sys:String>
+
+    <!--Settings Tabs-->
+    <sys:String x:Key="LOC_SPG_CommonTab">General</sys:String>
+    <sys:String x:Key="LOC_SPG_BackgroundTab">Fondo</sys:String>
+    
+    <!--BackgroundImageSource Enum-->
+    <sys:String x:Key="LOC_SPG_BackgroundImageSourceLastPlayed">Jugado por última vez</sys:String>
+    <sys:String x:Key="LOC_SPG_BackgroundImageSourceLastAdded">Último añadido</sys:String>
+    <sys:String x:Key="LOC_SPG_BackgroundImageSourceMostPlayed">Más jugado</sys:String>
+    <sys:String x:Key="LOC_SPG_BackgroundImageSourceRandom">Aleatorio</sys:String>
+    <sys:String x:Key="LOC_SPG_BackgroundImageSourceLastSelected">Última selección</sys:String>
+    <sys:String x:Key="LOC_SPG_BackgroundImageSourceLastHovered">Última vez que se pasó por encima</sys:String>
+
+    <!-- Settings -->
+    <sys:String x:Key="LOC_SPG_ShowGameActivity">Mostrar vistas de GameActivity</sys:String>
+    <sys:String x:Key="LOC_SPG_NumberOfGames">Número de Juegos:</sys:String>
+    <sys:String x:Key="LOC_SPG_NextRandomBackground">Siguiente Fondo aleatorio</sys:String>
+    <sys:String x:Key="LOC_SPG_ShowFavorites">Mostrar juegos favoritos</sys:String>
+    <sys:String x:Key="LOC_SPG_ShowClock">Mostrar reloj</sys:String>
+    <sys:String x:Key="LOC_SPG_ShowRecentlyPlayed">Mostrar juegos jugados recientemente</sys:String>
+    <sys:String x:Key="LOC_SPG_ShowRecentAchievements">Mostrar logros recientes usando SuccessStory</sys:String>
+    <sys:String x:Key="LOC_SPG_ShowRecentlyAdded">Mostrar juegos añadidos recientemente</sys:String>
+    <sys:String x:Key="LOC_SPG_StartupItem">(No soportado) Activar elemento de barra lateral al inicio</sys:String>
+    <sys:String x:Key="LOC_SPG_MaxRecentAchievements">Número máximo de logros recientes:</sys:String>
+    <sys:String x:Key="LOC_SPG_MaxRecentAchievementsPerGame">Número máximo de logros recientes por juego:</sys:String>
+    <sys:String x:Key="LOC_SPG_ShowTitelOnCover">Mostrar título en la portada de juegos</sys:String>
+    <sys:String x:Key="LOC_SPG_ShowGameDetails">Mostrar detalles del juego</sys:String>
+    <sys:String x:Key="LOC_SPG_EnableNotifications">Habilitar notificaciones</sys:String>
+    <sys:String x:Key="LOC_SPG_EnableGlobalBackground">Enable Global Background</sys:String>
+    <sys:String x:Key="LOC_SPG_GlobalBackgroundOpacity">Global Background Opacity</sys:String>
+    <sys:String x:Key="LOC_SPG_MinimizeNotification">Minimizar las notificaciones al inicio</sys:String>
+    <sys:String x:Key="LOC_SPG_ShowNotificationButtons">Mostrar los botones &quot;Descartar&quot; y &quot;Minimizar&quot;</sys:String>
+    <sys:String x:Key="LOC_SPG_KeepInMemory">Mantener la página de inicio en la memoria cuando se cambia a otra vista</sys:String>
+    <sys:String x:Key="LOC_SPG_MoveIconToTop">(No soportado) Mover el elemento de StartPage al principio de la barra lateral al iniciar</sys:String>
+    <sys:String x:Key="LOC_SPG_BlurAmount">Radio de desenfoque:</sys:String>
+    <sys:String x:Key="LOC_SPG_EffectiveBlur">Radio de desenfoque efectivo:</sys:String>
+    <sys:String x:Key="LOC_SPG_EffectiveBlurToolTip">El radio de desenfoque efectivo viene dado por (Radio de desenfoque) / (Escala de renderizado del fondo). Una escala de renderizado baja combinada con un radio de desenfoque bajo puede conducir a resultados no deseados. Disminuir la escala de renderizado puede producir un mejor rendimiento y puede crear un efecto de desenfoque más fuerte.</sys:String>
+    <sys:String x:Key="LOC_SPG_BackgroundScale">Escala de renderizado de fondo:</sys:String>
+    <sys:String x:Key="LOC_SPG_OverlayOpacity">Opacidad de la superposición:</sys:String>
+    <sys:String x:Key="LOC_SPG_NoiseOpacity">Opacidad del ruido:</sys:String>
+    <sys:String x:Key="LOC_SPG_CoverAspectRatio">Relación de aspecto de la cubierta</sys:String>
+    <sys:String x:Key="LOC_SPG_MaxCoverWidth">Ancho de portada máximo</sys:String>
+    <sys:String x:Key="LOC_SPG_BackgroundImageSource">Selección de la imagen de fondo del juego:</sys:String>
+    <sys:String x:Key="LOC_SPG_BackgroundImagePath">Ruta de la imagen de fondo:</sys:String>
+    <sys:String x:Key="LOC_SPG_ShowGlobalProgressBar">(No soportado) Mostrar barra de progreso global</sys:String>
+    <sys:String x:Key="LOC_SPG_SwitchWithLowPrio">Bajar prioridad al cambiar la vista (activado automáticamente al bloquearse Playnite)</sys:String>
+    <sys:String x:Key="LOC_SPG_UnsupportedToolTip">Utilice esta función bajo su propio riesgo. No está soportada oficialmente por la PlayniteAPI y por lo tanto puede conducir a un comportamiento inesperado.</sys:String>
+    <sys:String x:Key="LOC_SPG_IgnoreHidden">Ignorar los juegos ocultos</sys:String>
+    <sys:String x:Key="LOC_SPG_AddShelve">Añadir Estantería</sys:String>
+    <sys:String x:Key="LOC_SPG_ShowMostPlayedGames">Mostrar los juegos más jugados</sys:String>
+    <sys:String x:Key="LOC_SPG_SkippedGames">Omitir:</sys:String>
+    <sys:String x:Key="LOC_SPG_ExtendShelve">Extender la estantería</sys:String>
+    <sys:String x:Key="LOC_SPG_BackgroundGameInfoOpacity">Opacidad de información del juego:</sys:String>
+    <sys:String x:Key="LOC_SPG_BackgroundAnimationDuration">Duración de la Animación:</sys:String>
+    <sys:String x:Key="LOC_SPG_BackgroundRefreshInterval">Intervalo de actualización (Minutos):</sys:String>
+    <sys:String x:Key="LOC_SPG_SkipGamesInPreviousShelves">Saltar juegos presentes en las estanterías anteriores</sys:String>
+    <sys:String x:Key="LOC_SPG_SkipGamesInPreviousTimeframes">Omitir los juegos presentes en los plazos anteriores</sys:String>
+    <sys:String x:Key="LOC_SPG_EnableTags">Crear [SPG] etiquetas al lanzar. Utilizado para marcar juegos como ignorados.</sys:String>
+    <sys:String x:Key="LOC_SPG_FixGridHeight">Altura de rejilla fija:</sys:String>
+    <sys:String x:Key="LOC_SPG_FixGridHeight_Tooltip" xml:space="preserve">Si se activa, la altura de la rejilla ya no está vinculada a la altura de la ventana.
+En su lugar, se puede establecer un valor fijo. Si ese valor es mayor que la altura de la ventana, la vista puede desplazarse.</sys:String>
+    <sys:String x:Key="LOC_SPG_DownScaleCovers">Cargar las imágenes de portada con una resolución inferior</sys:String>
+    <sys:String x:Key="LOC_SPG_DownScaleCoversTooltip" xml:space="preserve">Si se activa, las imágenes de portada se cargan en la memoria con un ancho máximo de (1.15 * Ancho máximo de portada) píxeles.
+Esto puede llevar a una huella de memoria mucho menor para StartPage. No afectará a las carátulas ya cargadas antes de reiniciar Playnite.</sys:String>
+    <sys:String x:Key="LOC_SPG_LockLayout">Bloquear disposición fuera del modo edición</sys:String>
+    <sys:String x:Key="LOC_SPG_VideoVolume">Volumen del video</sys:String>
+    <sys:String x:Key="LOC_SPG_ShowInstalledIndicator">Indicar si el juego está instalado</sys:String>
+    <sys:String x:Key="LOC_SPG_ShowNotInstalledIndicator">Indicar si el juego no está instalado</sys:String>
+    <sys:String x:Key="LOC_SPG_SetBackgroundToCurrentGame">Establecer la imágen de fonde de StartPage con el fondo del juego que se está ejecutando actualmente</sys:String>
+    <sys:String x:Key="LOC_SPG_SetBackgroundToCurrentGameDisableBlur">Desactivar desenfoque</sys:String>
+    
+    <!-- Grid -->
+    <sys:String x:Key="LOC_SPG_SplitHorizonatlly">Dividir horizontalmente</sys:String>
+    <sys:String x:Key="LOC_SPG_SplitVertically">Dividir verticalmente</sys:String>
+    <sys:String x:Key="LOC_SPG_Merge">Combinar</sys:String>
+    <sys:String x:Key="LOC_SPG_MergeKeepUpper">Mantener el panel superior</sys:String>
+    <sys:String x:Key="LOC_SPG_MergeKeepLower">Mantener el panel inferior</sys:String>
+    <sys:String x:Key="LOC_SPG_MergeKeepLeft">Mantener el panel izquierdo</sys:String>
+    <sys:String x:Key="LOC_SPG_MergeKeepRight">Mantener el panel derecho</sys:String>
+    <sys:String x:Key="LOC_SPG_AddView">Añadir Vista</sys:String>
+    <sys:String x:Key="LOC_SPG_RemoveView">Eliminar vista</sys:String>
+    <sys:String x:Key="LOC_SPG_EditMode">Modo de Edición</sys:String>
+    <sys:String x:Key="LOC_SPG_EnterEditMode">Entrar a modo de edición</sys:String>
+    <sys:String x:Key="LOC_SPG_ExitEditMode">Salir del modo de edición</sys:String>
+    <sys:String x:Key="LOC_SPG_ResetLayout">Restablecer el diseño por defecto</sys:String>
+    <sys:String x:Key="LOC_SPG_DragPanelTooltip">Arrastre y suelte los paneles para intercambiarlos</sys:String>
+    <sys:String x:Key="LOC_SPG_AddPanel">Añadir panel</sys:String>
+    <sys:String x:Key="LOC_SPG_RemovePanel">Quitar panel</sys:String>
+    <sys:String x:Key="LOC_SPG_MergeWith">Combinar con</sys:String>
+    <sys:String x:Key="LOC_SPG_MergeWithAbove">Panel superior</sys:String>
+    <sys:String x:Key="LOC_SPG_MergeWithBelow">Panel inferior</sys:String>
+    <sys:String x:Key="LOC_SPG_MergeWithLeft">Panel izquierdo</sys:String>
+    <sys:String x:Key="LOC_SPG_MergeWithRight">Panel derecho</sys:String>
+    <sys:String x:Key="LOC_SPG_AddPanelTop">Arriba</sys:String>
+    <sys:String x:Key="LOC_SPG_AddPanelBottom">Abajo</sys:String>
+    <sys:String x:Key="LOC_SPG_AddPanelLeft">Más a la izquierda</sys:String>
+    <sys:String x:Key="LOC_SPG_AddPanelRight">Más a la derecha</sys:String>
+    <sys:String x:Key="LOC_SPG_HorizontalAlignment">Alineación horizontal</sys:String>
+    <sys:String x:Key="LOC_SPG_HorizontalAlignmentLeft">Izquierda</sys:String>
+    <sys:String x:Key="LOC_SPG_HorizontalAlignmentRight">Derecha</sys:String>
+    <sys:String x:Key="LOC_SPG_VerticalAlignment">Alineación vertical</sys:String>
+    <sys:String x:Key="LOC_SPG_VerticalAlignmentTop">Arriba</sys:String>
+    <sys:String x:Key="LOC_SPG_VerticalAlignmentBottom">Abajo</sys:String>
+    <sys:String x:Key="LOC_SPG_AlignmentStretch">Estirado</sys:String>
+    <sys:String x:Key="LOC_SPG_AlignmentCenter">Centro</sys:String>
+    <sys:String x:Key="LOC_SPG_Padding">Margen interior</sys:String>
+    <sys:String x:Key="LOC_SPG_ShelvesHorizontalLabels">Etiquetas horizontales</sys:String>
+
+    <!-- Integrated Views -->
+    <sys:String x:Key="LOC_SPG_ClockView">Reloj</sys:String>
+    <sys:String x:Key="LOC_SPG_ClockViewDescription">Reloj digital que también muestra la fecha actual. Utiliza el formato de la hora del sistema.</sys:String>
+    <sys:String x:Key="LOC_SPG_ShelvesView">Estanterías de juegos</sys:String>
+    <sys:String x:Key="LOC_SPG_ShelvesViewDescription">Estanterías que muestran las carátulas de los juegos con filtros personalizados, opciones de clasificación y agrupación.</sys:String>
+    <sys:String x:Key="LOC_SPG_MostPlayedView">Más jugados</sys:String>
+    <sys:String x:Key="LOC_SPG_MostPlayedDescription">Muestra los juegos más jugados en diferentes periodos de tiempo.</sys:String>
+    <sys:String x:Key="LOC_SPG_WeeklyActivityView">Actividad semanal</sys:String>
+    <sys:String x:Key="LOC_SPG_WeeklyActivityDescription">Muestra un resumen compacto del tiempo de juego en los últimos 7 días. Requiere la extensión GameActivity.</sys:String>
+    <sys:String x:Key="LOC_SPG_RecentAchievementsView">Logros recientes</sys:String>
+    <sys:String x:Key="LOC_SPG_RecentAchievementsDescription">Muestra un resumen de los logros recientemente desbloqueados agrupados por juego. Requiere la extensión SuccessStory.</sys:String>
+
+</ResourceDictionary>

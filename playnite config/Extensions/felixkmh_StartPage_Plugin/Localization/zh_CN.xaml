@@ -1,0 +1,152 @@
+﻿<?xml version="1.0"?>
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:sys="clr-namespace:System;assembly=mscorlib">
+
+    <sys:String x:Key="LOC_SPG_MostPlayedGame">最常游玩</sys:String>
+    <sys:String x:Key="LOC_SPG_LatestReleaseGame">最新发布</sys:String>
+    <sys:String x:Key="LOC_SPG_RecentAchievements">近期成就</sys:String>
+    <sys:String x:Key="LOC_SPG_RecentlyAddedGames">最近添加</sys:String>
+
+    <sys:String x:Key="LOC_SPG_DailyPlaytime">每日游玩时间</sys:String>
+    <sys:String x:Key="LOC_SPG_WeeklyPlaytime">每周游玩时间</sys:String>
+    <sys:String x:Key="LOC_SPG_MonthlyPlaytime">每月游玩时间</sys:String>
+    <sys:String x:Key="LOC_SPG_PlaytimePerSource">每个来源游玩时间</sys:String>
+    <sys:String x:Key="LOC_SPG_MostPlayedWeekly">本周最常游玩</sys:String>
+    <sys:String x:Key="LOC_SPG_TotalPlaytime" xml:space="preserve">总计： </sys:String>
+    <sys:String x:Key="LOC_SPG_LastSevenDays">最近 7 天</sys:String>
+    <sys:String x:Key="LOC_SPG_LastThirtyDays">最近 30 天</sys:String>
+    <sys:String x:Key="LOC_SPG_TimeframeNone">无</sys:String>
+
+    <sys:String x:Key="LOC_SPG_SetGameAsBackground">设置为 StartPage 背景</sys:String>
+
+    <!-- Timeframes -->
+    <sys:String x:Key="LOC_SPG_TimeframeLastDay">过去 24 小时</sys:String>
+    <sys:String x:Key="LOC_SPG_TimeframeLast7Days">过去一周</sys:String>
+    <sys:String x:Key="LOC_SPG_TimeframeLast14Days">过去两周</sys:String>
+    <sys:String x:Key="LOC_SPG_TimeframeLast21Days">过去三周</sys:String>
+    <sys:String x:Key="LOC_SPG_TimeframeLastMonth">过去一个月</sys:String>
+    <sys:String x:Key="LOC_SPG_TimeframeLast3Months">过去三个月</sys:String>
+    <sys:String x:Key="LOC_SPG_TimeframeLast6Months">过去六个月</sys:String>
+    <sys:String x:Key="LOC_SPG_TimeframeLastYear">过去一年</sys:String>
+    <sys:String x:Key="LOC_SPG_TimeframeLast5Years">过去五年</sys:String>
+    <sys:String x:Key="LOC_SPG_TimeframeAllTime">全部时间</sys:String>
+
+    <!--Settings Tabs-->
+    <sys:String x:Key="LOC_SPG_CommonTab">常规</sys:String>
+    <sys:String x:Key="LOC_SPG_BackgroundTab">背景</sys:String>
+    
+    <!--BackgroundImageSource Enum-->
+    <sys:String x:Key="LOC_SPG_BackgroundImageSourceLastPlayed">上次游玩</sys:String>
+    <sys:String x:Key="LOC_SPG_BackgroundImageSourceLastAdded">上次添加</sys:String>
+    <sys:String x:Key="LOC_SPG_BackgroundImageSourceMostPlayed">最常游玩</sys:String>
+    <sys:String x:Key="LOC_SPG_BackgroundImageSourceRandom">随机</sys:String>
+    <sys:String x:Key="LOC_SPG_BackgroundImageSourceLastSelected">上次选择</sys:String>
+    <sys:String x:Key="LOC_SPG_BackgroundImageSourceLastHovered">上次悬停</sys:String>
+
+    <!-- Settings -->
+    <sys:String x:Key="LOC_SPG_ShowGameActivity">显示游戏活动（GameActivity）视图</sys:String>
+    <sys:String x:Key="LOC_SPG_NumberOfGames">游戏数量：</sys:String>
+    <sys:String x:Key="LOC_SPG_NextRandomBackground">下一个随机背景</sys:String>
+    <sys:String x:Key="LOC_SPG_ShowFavorites">显示收藏游戏</sys:String>
+    <sys:String x:Key="LOC_SPG_ShowClock">显示时钟</sys:String>
+    <sys:String x:Key="LOC_SPG_ShowRecentlyPlayed">显示最近游玩的游戏</sys:String>
+    <sys:String x:Key="LOC_SPG_ShowRecentAchievements">使用功成名就（SuccessStory）显示近期成就</sys:String>
+    <sys:String x:Key="LOC_SPG_ShowRecentlyAdded">显示最近添加的游戏</sys:String>
+    <sys:String x:Key="LOC_SPG_StartupItem">（不支持）启动时激活侧边栏项目</sys:String>
+    <sys:String x:Key="LOC_SPG_MaxRecentAchievements">近期成就的最大数目：</sys:String>
+    <sys:String x:Key="LOC_SPG_MaxRecentAchievementsPerGame">每个游戏近期成就的最大数目：</sys:String>
+    <sys:String x:Key="LOC_SPG_ShowTitelOnCover">在游戏封面上显示标题</sys:String>
+    <sys:String x:Key="LOC_SPG_ShowGameDetails">显示游戏详细信息</sys:String>
+    <sys:String x:Key="LOC_SPG_EnableNotifications">开启通知</sys:String>
+    <sys:String x:Key="LOC_SPG_EnableGlobalBackground">Enable Global Background</sys:String>
+    <sys:String x:Key="LOC_SPG_GlobalBackgroundOpacity">Global Background Opacity</sys:String>
+    <sys:String x:Key="LOC_SPG_MinimizeNotification">启动时最小化通知</sys:String>
+    <sys:String x:Key="LOC_SPG_ShowNotificationButtons">显示“丢弃”和“最小化”按钮</sys:String>
+    <sys:String x:Key="LOC_SPG_KeepInMemory">切换到另一个视图时，将 StartPage 保留在内存中</sys:String>
+    <sys:String x:Key="LOC_SPG_MoveIconToTop">（不支持）启动时将 StartPage 项目移到侧边栏顶部</sys:String>
+    <sys:String x:Key="LOC_SPG_BlurAmount">模糊半径：</sys:String>
+    <sys:String x:Key="LOC_SPG_EffectiveBlur">有效模糊半径：</sys:String>
+    <sys:String x:Key="LOC_SPG_EffectiveBlurToolTip">有效模糊半径等于模糊半径除以背景渲染比例。低渲染比例与低模糊半径搭配可能会导致不想要的效果。降低渲染比例可以提高性能，并且可以产生更强的模糊效果。</sys:String>
+    <sys:String x:Key="LOC_SPG_BackgroundScale">背景渲染比例：</sys:String>
+    <sys:String x:Key="LOC_SPG_OverlayOpacity">覆盖层不透明度：</sys:String>
+    <sys:String x:Key="LOC_SPG_NoiseOpacity">噪声不透明度：</sys:String>
+    <sys:String x:Key="LOC_SPG_CoverAspectRatio">封面宽高比</sys:String>
+    <sys:String x:Key="LOC_SPG_MaxCoverWidth">最大封面宽度</sys:String>
+    <sys:String x:Key="LOC_SPG_BackgroundImageSource">游戏背景图像选择：</sys:String>
+    <sys:String x:Key="LOC_SPG_BackgroundImagePath">背景图像路径：</sys:String>
+    <sys:String x:Key="LOC_SPG_ShowGlobalProgressBar">（不支持）显示全局进度条</sys:String>
+    <sys:String x:Key="LOC_SPG_SwitchWithLowPrio">切换视图时降低优先级（在 Playnite 崩溃时自动启用）</sys:String>
+    <sys:String x:Key="LOC_SPG_UnsupportedToolTip">使用这个功能的风险由你自己承担。它不被 PlayniteAPI 官方支持，可能导致意外行为。</sys:String>
+    <sys:String x:Key="LOC_SPG_IgnoreHidden">忽略已隐藏游戏</sys:String>
+    <sys:String x:Key="LOC_SPG_AddShelve">添加展架</sys:String>
+    <sys:String x:Key="LOC_SPG_ShowMostPlayedGames">显示最常游玩的游戏</sys:String>
+    <sys:String x:Key="LOC_SPG_SkippedGames">跳过：</sys:String>
+    <sys:String x:Key="LOC_SPG_ExtendShelve">延长展架</sys:String>
+    <sys:String x:Key="LOC_SPG_BackgroundGameInfoOpacity">游戏信息栏不透明度：</sys:String>
+    <sys:String x:Key="LOC_SPG_BackgroundAnimationDuration">动画持续时间：</sys:String>
+    <sys:String x:Key="LOC_SPG_BackgroundRefreshInterval">刷新间隔（分钟）：</sys:String>
+    <sys:String x:Key="LOC_SPG_SkipGamesInPreviousShelves">跳过前面的展架中存在的游戏</sys:String>
+    <sys:String x:Key="LOC_SPG_SkipGamesInPreviousTimeframes">跳过之前时间段中出现的游戏</sys:String>
+    <sys:String x:Key="LOC_SPG_EnableTags">在启动时创建 [SPG] 标签。用于将游戏标记为忽略。</sys:String>
+    <sys:String x:Key="LOC_SPG_FixGridHeight">固定网格高度：</sys:String>
+    <sys:String x:Key="LOC_SPG_FixGridHeight_Tooltip" xml:space="preserve">如果启用，网格高度将不再与窗口高度绑定。
+相反，可以将其设置为一个固定值。如果这个值大于窗口高度，界面将可以滚动。</sys:String>
+    <sys:String x:Key="LOC_SPG_DownScaleCovers">以较低的分辨率加载封面图像</sys:String>
+    <sys:String x:Key="LOC_SPG_DownScaleCoversTooltip" xml:space="preserve">如果启用，封面图像将以最大宽度（1.15 * 最大封面宽度）像素载入内存。
+这可以使 StartPage 的内存占用更小。不会影响重启 Playnite 前已加载的封面。</sys:String>
+    <sys:String x:Key="LOC_SPG_LockLayout">在编辑模式之外锁定布局</sys:String>
+    <sys:String x:Key="LOC_SPG_VideoVolume">视频音量</sys:String>
+    <sys:String x:Key="LOC_SPG_ShowInstalledIndicator">指示游戏是否已安装</sys:String>
+    <sys:String x:Key="LOC_SPG_ShowNotInstalledIndicator">指示游戏是否未安装</sys:String>
+    <sys:String x:Key="LOC_SPG_SetBackgroundToCurrentGame">将 StartPage 的背景设置为当前运行的游戏背景图片。</sys:String>
+    <sys:String x:Key="LOC_SPG_SetBackgroundToCurrentGameDisableBlur">禁用模糊</sys:String>
+    
+    <!-- Grid -->
+    <sys:String x:Key="LOC_SPG_SplitHorizonatlly">水平分割</sys:String>
+    <sys:String x:Key="LOC_SPG_SplitVertically">垂直分割</sys:String>
+    <sys:String x:Key="LOC_SPG_Merge">合并</sys:String>
+    <sys:String x:Key="LOC_SPG_MergeKeepUpper">保留顶部面板</sys:String>
+    <sys:String x:Key="LOC_SPG_MergeKeepLower">保留底部面板</sys:String>
+    <sys:String x:Key="LOC_SPG_MergeKeepLeft">保留左侧面板</sys:String>
+    <sys:String x:Key="LOC_SPG_MergeKeepRight">保留右侧面板</sys:String>
+    <sys:String x:Key="LOC_SPG_AddView">添加视图</sys:String>
+    <sys:String x:Key="LOC_SPG_RemoveView">移除视图</sys:String>
+    <sys:String x:Key="LOC_SPG_EditMode">编辑模式</sys:String>
+    <sys:String x:Key="LOC_SPG_EnterEditMode">进入编辑模式</sys:String>
+    <sys:String x:Key="LOC_SPG_ExitEditMode">退出编辑模式</sys:String>
+    <sys:String x:Key="LOC_SPG_ResetLayout">重置布局为默认</sys:String>
+    <sys:String x:Key="LOC_SPG_DragPanelTooltip">拖放面板来交换它们</sys:String>
+    <sys:String x:Key="LOC_SPG_AddPanel">添加面板</sys:String>
+    <sys:String x:Key="LOC_SPG_RemovePanel">移除面板</sys:String>
+    <sys:String x:Key="LOC_SPG_MergeWith">并入</sys:String>
+    <sys:String x:Key="LOC_SPG_MergeWithAbove">上方面板</sys:String>
+    <sys:String x:Key="LOC_SPG_MergeWithBelow">下方面板</sys:String>
+    <sys:String x:Key="LOC_SPG_MergeWithLeft">左侧面板</sys:String>
+    <sys:String x:Key="LOC_SPG_MergeWithRight">右侧面板</sys:String>
+    <sys:String x:Key="LOC_SPG_AddPanelTop">顶部</sys:String>
+    <sys:String x:Key="LOC_SPG_AddPanelBottom">底部</sys:String>
+    <sys:String x:Key="LOC_SPG_AddPanelLeft">左侧</sys:String>
+    <sys:String x:Key="LOC_SPG_AddPanelRight">右侧</sys:String>
+    <sys:String x:Key="LOC_SPG_HorizontalAlignment">水平对齐</sys:String>
+    <sys:String x:Key="LOC_SPG_HorizontalAlignmentLeft">左侧</sys:String>
+    <sys:String x:Key="LOC_SPG_HorizontalAlignmentRight">右侧</sys:String>
+    <sys:String x:Key="LOC_SPG_VerticalAlignment">垂直对齐</sys:String>
+    <sys:String x:Key="LOC_SPG_VerticalAlignmentTop">顶部</sys:String>
+    <sys:String x:Key="LOC_SPG_VerticalAlignmentBottom">底部</sys:String>
+    <sys:String x:Key="LOC_SPG_AlignmentStretch">拉伸</sys:String>
+    <sys:String x:Key="LOC_SPG_AlignmentCenter">居中</sys:String>
+    <sys:String x:Key="LOC_SPG_Padding">内边距</sys:String>
+    <sys:String x:Key="LOC_SPG_ShelvesHorizontalLabels">水平标签</sys:String>
+
+    <!-- Integrated Views -->
+    <sys:String x:Key="LOC_SPG_ClockView">时钟</sys:String>
+    <sys:String x:Key="LOC_SPG_ClockViewDescription">同时显示当前日期的数字时钟。使用系统时间格式。</sys:String>
+    <sys:String x:Key="LOC_SPG_ShelvesView">游戏展架</sys:String>
+    <sys:String x:Key="LOC_SPG_ShelvesViewDescription">显示游戏封面的展架，有自定义过滤器、排序和分组选项。</sys:String>
+    <sys:String x:Key="LOC_SPG_MostPlayedView">最常游玩</sys:String>
+    <sys:String x:Key="LOC_SPG_MostPlayedDescription">显示不同时间段内玩得最多的游戏。</sys:String>
+    <sys:String x:Key="LOC_SPG_WeeklyActivityView">一周活动</sys:String>
+    <sys:String x:Key="LOC_SPG_WeeklyActivityDescription">显示过去 7 天内的游戏时间的简介概述。需要游戏活动（GameActivity）扩展。</sys:String>
+    <sys:String x:Key="LOC_SPG_RecentAchievementsView">近期成就</sys:String>
+    <sys:String x:Key="LOC_SPG_RecentAchievementsDescription">显示最近解锁的成就概览，按游戏分组。需要功成名就（SuccessStory）扩展。</sys:String>
+
+</ResourceDictionary>

@@ -1,0 +1,257 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"                    
+                    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+                    mc:Ignorable="d">
+
+    <Style TargetType="{x:Type GameDetails}">
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="{x:Type GameDetails}">
+                    <Grid
+                          x:Name="PART_ViewHost"
+                          d:DesignWidth="{StaticResource DesignWidth}"
+                          d:DesignHeight="{StaticResource DesignHeight}"
+                          d:DataContext="{x:Static DesignMainViewModel.DesignSelectedGameIntance}"
+                          KeyboardNavigation.DirectionalNavigation="Contained"
+                          KeyboardNavigation.TabNavigation="Contained" Background="{x:Null}">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="0*"/>
+                            <ColumnDefinition Width="Auto" MinWidth="1280" />
+                            <ColumnDefinition Width="auto" />
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="41*" />
+                            <RowDefinition Height="31*" />
+                        </Grid.RowDefinitions>
+                        <StackPanel Orientation="Horizontal" Grid.ColumnSpan="3" HorizontalAlignment="Center">
+                            <Grid HorizontalAlignment="Center" VerticalAlignment="Center">
+
+                                <Grid.RenderTransform>
+                                    <ScaleTransform ScaleX="1" ScaleY="1" />
+                                </Grid.RenderTransform>
+
+                                <StackPanel Orientation="Horizontal" Grid.ColumnSpan="2" HorizontalAlignment="Center">
+
+                                    <StackPanel Orientation="Horizontal" Margin="0,45,0,0" HorizontalAlignment="Center" VerticalAlignment="Top">
+
+                                        <Border Name="Cover" CornerRadius="30" BorderThickness="0" BorderBrush="White" Height="400"  RenderOptions.BitmapScalingMode="Fant" VerticalAlignment="Center">
+                                            <Border.Background>
+                                                <ImageBrush Stretch="Fill" ImageSource="{Binding CoverImageObject}"/>
+                                            </Border.Background>
+                                            <Image Source="{Binding CoverImageObject}" Opacity="0" RenderOptions.BitmapScalingMode="NearestNeighbor" />
+                                        </Border>
+                                        
+                                        
+                                    </StackPanel>
+                                </StackPanel>
+                            </Grid>
+                        </StackPanel>
+                        <Border Grid.ColumnSpan="3" Grid.Row="1" Height="617.143" VerticalAlignment="Bottom" Margin="0,-2.143,0,0">
+                            <Border.Background>
+                                <SolidColorBrush Color="Black" Opacity="0"/>
+                            </Border.Background>
+                            <Border.Style>
+                                <Style TargetType="Border">
+                                    <Style.Triggers>
+                                        <DataTrigger Binding="{Binding DisplayBackgroundImage}" Value="{x:Null}">
+                                            <Setter Property="Visibility" Value="Collapsed" />
+                                        </DataTrigger>
+                                    </Style.Triggers>
+                                </Style>
+                            </Border.Style>
+                        </Border>
+
+                        <Image Grid.Column="2" Grid.Row="1"
+                               VerticalAlignment="Top"
+                               HorizontalAlignment="Right"
+                               Margin="0,24,24,0"
+                               Source="{Binding LibraryPlugin.LibraryIcon}"
+                               Height="48" RenderOptions.BitmapScalingMode="Fant" Width="0">
+                            <Image.Effect>
+                                <DropShadowEffect Color="White" BlurRadius="20" ShadowDepth="0"
+                                                  RenderingBias="Quality" Opacity="1"/>
+                            </Image.Effect>
+                        </Image>
+
+                        <DockPanel Grid.Column="2" Grid.Row="1"
+                                   Margin="0,0,0,35"
+                                   HorizontalAlignment="Left" Width="626.093" Height="280" VerticalAlignment="Bottom">
+                            <StackPanel Orientation="Horizontal" DockPanel.Dock="Top" Margin="0,20,-163.907,20">
+                                <StackPanel>
+                                    <TextBlock Style="{DynamicResource TextBlockBaseStyle}"
+                                               FontFamily="{DynamicResource FontTitilliumWebBold}"
+                                               Text="{DynamicResource LOCTimePlayed}"
+                                               Margin="0,0,0,10" />
+                                    <TextBlock Style="{DynamicResource TextBlockBaseStyle}"
+                                               Text="{Binding Playtime, Converter={StaticResource PlayTimeToStringConverter}}" />
+                                </StackPanel>
+                                <StackPanel Margin="50,0,0,0">
+                                    <TextBlock Style="{DynamicResource TextBlockBaseStyle}"
+                                               FontFamily="{DynamicResource FontTitilliumWebBold}"
+                                               Text="{DynamicResource LOCGameLastActivityTitle}"
+                                               Margin="0,0,0,10" />
+                                    <TextBlock Style="{DynamicResource TextBlockBaseStyle}"
+                                               Text="{Binding LastActivity, Converter={StaticResource DateTimeToLastPlayedConverter}}" />
+                                </StackPanel>
+                                <StackPanel Margin="50,0,0,0">
+                                    <TextBlock Style="{DynamicResource TextBlockBaseStyle}"
+                                               FontFamily="{DynamicResource FontTitilliumWebBold}"
+                                               Text="{DynamicResource LOCGameReleaseDateTitle}"
+                                               Margin="0,0,0,10" />
+                                    <TextBlock Style="{DynamicResource TextBlockBaseStyle}"
+                                               Text="{Binding ReleaseDate}" />
+                                </StackPanel>
+
+                                <StackPanel Margin="50,0,0,0">
+                                    <TextBlock Style="{DynamicResource TextBlockBaseStyle}"
+                                               FontFamily="{DynamicResource FontTitilliumWebBold}"
+                                               Text="{DynamicResource LOCGamePlatformTitle}"
+                                               Margin="0,0,0,10" />
+                                    <TextBlock Style="{DynamicResource TextBlockBaseStyle}"
+                                               Text="{Binding Platforms, Converter={StaticResource ListToStringConverter}}" />
+                                </StackPanel>
+                            </StackPanel>
+
+                            <StackPanel x:Name="Boutons" Orientation="Horizontal" Grid.Column="1" Grid.Row="0" Margin="-124,0,71.093,-8" DockPanel.Dock="Top" Height="Auto" Width="Auto" HorizontalAlignment="Center" RenderTransformOrigin="0.5,0.5" VerticalAlignment="Bottom">
+                                <StackPanel.RenderTransform>
+                                    <TransformGroup>
+                                        <ScaleTransform/>
+                                        <SkewTransform/>
+                                        <RotateTransform/>
+                                        <TranslateTransform Y="-317" X="80"/>
+                                    </TransformGroup>
+                                </StackPanel.RenderTransform>
+
+                                <ButtonEx x:Name="PART_ButtonContext" FocusVisualStyle="{x:Null}"
+                                          Margin="39,0,0,0" Padding="-225,0,50,0" HorizontalContentAlignment="Center" VerticalContentAlignment="Bottom" Height="76" RenderTransformOrigin="0.492,0.385" VerticalAlignment="Bottom" HorizontalAlignment="Center" Width="243" >
+                                    <Button.Style>
+                                        <Style BasedOn="{StaticResource {x:Type Button}}" TargetType="Button">
+                                            <Setter Property="Margin" Value="10,10,10,10" />
+                                            <Setter Property="BorderThickness" Value="2" />
+                                            <Setter Property="BorderBrush" Value="Transparent" />
+                                            <Setter Property="HorizontalContentAlignment" Value="Center" />
+                                            <Setter Property="Template">
+                                                <Setter.Value>
+                                                    <ControlTemplate TargetType="Button">
+                                                        <ControlTemplate.Resources>
+                                                            <Storyboard x:Key="BorderHighlight" RepeatBehavior="Forever">
+                                                                <ColorAnimation From="#33000000" To="#BFEAD3CF" Storyboard.TargetProperty="(Button.BorderBrush).(SolidColorBrush.Color)" Storyboard.TargetName="BorderFocus" Duration="0:0:1" AutoReverse="True"/>
+                                                            </Storyboard>
+                                                        </ControlTemplate.Resources>
+                                                        <Grid Background="Transparent" Margin="0,10,0,10" MinHeight="50" MaxHeight="50" VerticalAlignment="Bottom">
+                                                            <Border Background="{TemplateBinding Background}" BorderThickness="0" CornerRadius="15" BorderBrush="#5A5A5A" Margin="-5,-8,-5,-8" x:Name="MainBorder"/>
+                                                            <StackPanel Orientation="Horizontal">
+                                                                <TextBlock Style="{DynamicResource TextBlockBaseStyle}" Foreground="{TemplateBinding Foreground}" FontFamily="Lato" FontWeight="Bold" FontSize="30" HorizontalAlignment="Center" VerticalAlignment="Center" Padding="90,0,0,0">
+                                                                        <ContentPresenter />
+                                                                </TextBlock>
+                                                                <TextBlock Text=" " FontSize="30" FontFamily="Lato" FontWeight="Bold" VerticalAlignment="Center" />
+
+                                                            </StackPanel>
+                                                            <Border BorderThickness="{TemplateBinding BorderThickness}" CornerRadius="15" BorderBrush="{TemplateBinding BorderBrush}" x:Name="BorderStandard" />
+                                                            <Border x:Name="BorderFocus" Margin="-10,-12,-10,-12" CornerRadius="18" BorderThickness="3" BorderBrush="White" Visibility="Collapsed" />
+                                                        </Grid>
+                                                        <ControlTemplate.Triggers>
+                                                            <Trigger Property="IsFocused" Value="False">
+                                                                <Setter Property="Foreground" Value="{DynamicResource TextBrush}"/>
+                                                                <Setter Property="Background" Value="#B9000000" TargetName="MainBorder"/>
+                                                                <Setter Property="Visibility" Value="Hidden" TargetName="BorderFocus" />
+
+                                                            </Trigger>
+                                                            <Trigger Property="IsFocused" Value="True">
+                                                                <Setter Property="Foreground" Value="{DynamicResource TextBrush}"/>
+                                                                <Setter Property="Background" Value="#007bfc" TargetName="MainBorder"/>
+                                                                <Setter Property="Visibility" Value="Visible" TargetName="BorderFocus" />
+                                                                <Trigger.EnterActions>
+                                                                    <BeginStoryboard Storyboard="{StaticResource BorderHighlight}"/>
+                                                                </Trigger.EnterActions>
+                                                            </Trigger>
+                                                            <Trigger Property="IsMouseOver" Value="True">
+                                                                <Setter Property="Foreground" Value="{DynamicResource TextBrushDark}"/>
+                                                                <Setter Property="Background" Value="{DynamicResource BleuDeSelection}" TargetName="MainBorder"/>
+                                                                <Setter Property="Visibility" Value="Visible" TargetName="BorderFocus" />
+                                                            </Trigger>
+                                                        </ControlTemplate.Triggers>
+                                                    </ControlTemplate>
+                                                </Setter.Value>
+                                            </Setter>
+                                        </Style>
+                                    </Button.Style>
+                                </ButtonEx>
+                                <TextBlock Margin="20,0,0,0" Height="1"></TextBlock>
+                                <ButtonEx x:Name="PART_ButtonOptions" FocusVisualStyle="{x:Null}" Margin="0" Padding="-6,0,-6,15" VerticalContentAlignment="Bottom" Content=". . ." VerticalAlignment="Bottom" HorizontalAlignment="Center" Height="74.033" >
+                                    <Button.Style>
+                                        <Style BasedOn="{StaticResource {x:Type Button}}" TargetType="Button">
+                                            <Setter Property="Margin" Value="10,10,10,10" />
+                                            <Setter Property="BorderThickness" Value="2" />
+                                            <Setter Property="BorderBrush" Value="Transparent" />
+                                            <Setter Property="HorizontalContentAlignment" Value="Center" />
+                                            <Setter Property="Template">
+                                                <Setter.Value>
+                                                    <ControlTemplate TargetType="Button">
+                                                        <ControlTemplate.Resources>
+                                                            <Storyboard x:Key="BorderHighlight" RepeatBehavior="Forever">
+                                                                <ColorAnimation From="#33000000" To="#BFEAD3CF" Storyboard.TargetProperty="(Button.BorderBrush).(SolidColorBrush.Color)" Storyboard.TargetName="BorderFocus" Duration="0:0:1" AutoReverse="True"/>
+                                                            </Storyboard>
+                                                        </ControlTemplate.Resources>
+                                                        <Grid Background="Transparent" Margin="0,10,0,10" MinHeight="50" MaxHeight="50" VerticalAlignment="Bottom">
+                                                            <Border Background="{TemplateBinding Background}" BorderThickness="0" CornerRadius="15" BorderBrush="#5A5A5A" Margin="-5,-8,-5,-8" x:Name="MainBorder"/>
+                                                            <TextBlock Style="{DynamicResource TextBlockBaseStyle}" Foreground="{TemplateBinding Foreground}" FontFamily="Calibri" FontWeight="Bold" FontSize="26" HorizontalAlignment="Center" VerticalAlignment="{TemplateBinding VerticalContentAlignment}" Margin="{TemplateBinding Padding}" Padding="20,0,20,0">
+                                                                        <ContentPresenter />
+                                                            </TextBlock>
+                                                            <Border BorderThickness="{TemplateBinding BorderThickness}" CornerRadius="15" BorderBrush="{TemplateBinding BorderBrush}" x:Name="BorderStandard" />
+                                                            <Border x:Name="BorderFocus" Margin="-10,-12,-10,-12" CornerRadius="18" BorderThickness="3" BorderBrush="White" Visibility="Collapsed" />
+                                                        </Grid>
+                                                        <ControlTemplate.Triggers>
+                                                            <Trigger Property="IsFocused" Value="False">
+                                                                <Setter Property="Foreground" Value="{DynamicResource TextBrush}"/>
+                                                                <Setter Property="Background" Value="#B9000000" TargetName="MainBorder"/>
+                                                                <Setter Property="Visibility" Value="Hidden" TargetName="BorderFocus" />
+
+                                                            </Trigger>
+                                                            <Trigger Property="IsFocused" Value="True">
+                                                                <Setter Property="Foreground" Value="{DynamicResource TextBrush}"/>
+                                                                <Setter Property="Background" Value="#007bfc" TargetName="MainBorder"/>
+                                                                <Setter Property="Visibility" Value="Visible" TargetName="BorderFocus" />
+                                                                <Trigger.EnterActions>
+                                                                    <BeginStoryboard Storyboard="{StaticResource BorderHighlight}"/>
+                                                                </Trigger.EnterActions>
+                                                            </Trigger>
+                                                            <Trigger Property="IsMouseOver" Value="True">
+                                                                <Setter Property="Foreground" Value="{DynamicResource TextBrushDark}"/>
+                                                                <Setter Property="Background" Value="#007bfc" TargetName="MainBorder"/>
+                                                                <Setter Property="Visibility" Value="Visible" TargetName="BorderFocus" />
+                                                            </Trigger>
+                                                        </ControlTemplate.Triggers>
+                                                    </ControlTemplate>
+                                                </Setter.Value>
+                                            </Setter>
+                                        </Style>
+                                    </Button.Style>
+                                </ButtonEx>
+                            </StackPanel>
+
+                            <ScrollViewerEx Margin="0,-140,0,0" DockPanel.Dock="Top" Height="250.89" Padding="0,0,0,2" HorizontalAlignment="Center" Width="1920" HorizontalContentAlignment="Center" VerticalContentAlignment="Center">
+                                <HtmlTextView x:Name="PART_HtmlDescription"
+                                                HtmlFontSize="16"
+                                                HtmlForeground="{DynamicResource TextColor}"
+                                                LinkForeground="{DynamicResource GlyphColor}"
+                                                FocusVisualStyle="{x:Null}" Width="1920" Height="165.073" FontSize="24" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" Margin="5" BorderThickness="0,0,0,5" Background="{x:Null}" Visibility="Hidden" HorizontalContentAlignment="Center" HorizontalAlignment="Center" >
+                                    <HtmlTextView.RenderTransform>
+                                        <TransformGroup>
+                                            <ScaleTransform/>
+                                            <SkewTransform/>
+                                            <RotateTransform/>
+                                            <TranslateTransform Y="70"/>
+                                        </TransformGroup>
+                                    </HtmlTextView.RenderTransform>
+                                </HtmlTextView>
+                            </ScrollViewerEx>
+                        </DockPanel>
+                    </Grid>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+</ResourceDictionary>
